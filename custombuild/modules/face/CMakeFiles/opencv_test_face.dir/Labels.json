@@ -1,0 +1,105 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/face/CMakeFiles/opencv_test_face.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_bif.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_face_align.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_facemark.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_facemark_aam.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_facemark_lbf.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_loadsave.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_mace.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_face",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/face/CMakeFiles/opencv_test_face.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/face/CMakeFiles/opencv_test_face.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_face",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_face"
+	}
+}

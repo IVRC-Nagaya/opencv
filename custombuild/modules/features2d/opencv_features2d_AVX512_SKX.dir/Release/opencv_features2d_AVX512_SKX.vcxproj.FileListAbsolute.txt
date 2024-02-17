@@ -1,0 +1,1 @@
+C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\features2d\opencv_features2d_AVX512_SKX.dir\Release\opencv_features2d_AVX512_SKX.lib

@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/flann/CMakeFiles/opencv_test_flann.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/flann/test/test_lshtable_badarg.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_flann",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/flann/test/test_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_flann",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/flann/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_flann",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/flann/CMakeFiles/opencv_test_flann.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/flann/CMakeFiles/opencv_test_flann.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_flann",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_flann"
+	}
+}

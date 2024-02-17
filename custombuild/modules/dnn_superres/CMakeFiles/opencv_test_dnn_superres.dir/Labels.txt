@@ -1,0 +1,20 @@
+# Target labels
+ Extra
+ opencv_dnn_superres
+ AccuracyTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_test_dnn_superres.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_dnn_superres.cpp
+ Extra
+ opencv_dnn_superres
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_main.cpp
+ Extra
+ opencv_dnn_superres
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_precomp.hpp
+ Extra
+ opencv_dnn_superres
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_test_dnn_superres.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_test_dnn_superres.dir/Release/cmake_pch.hxx

@@ -29,3 +29,19 @@ xcuserdata/
 
 custombuild/modules/core/opencv_test_core.dir/Debug/opencv_test_cored.ilk
 custombuild/modules/world/opencv_test_core.dir/Debug/opencv_test_cored.ilk
+custombuild/modules/videostab/opencv_test_videostab.dir/Debug/cmake_pch.pch
+custombuild/modules/world/opencv_perf_gapi.dir/Debug/opencv_perf_gapid.ilk
+custombuild/modules/world/opencv_test_dnn.dir/Debug/opencv_test_dnnd.ilk
+custombuild/modules/world/opencv_world.dir/Debug/opencv_world490d.ilk
+custombuild/modules/world/opencv_test_gapi.dir/Debug/opencv_test_gapid.ilk
+custombuild/modules/stitching/opencv_test_stitching.dir/Debug/cmake_pch.pch
+custombuild/modules/stitching/opencv_test_stitching.dir/Release/cmake_pch.pch
+custombuild/modules/stitching/opencv_perf_stitching.dir/Release/cmake_pch.pch
+custombuild/modules/stitching/opencv_perf_stitching.dir/Debug/cmake_pch.pch
+custombuild/modules/gapi/opencv_test_gapi.dir/Release/cmake_pch.pch
+custombuild/modules/dnn/opencv_dnn.dir/Debug/opencv_dnn490d.ilk
+custombuild/modules/gapi/opencv_test_gapi.dir/Debug/cmake_pch.pch
+custombuild/modules/gapi/opencv_gapi.dir/Debug/opencv_gapi490d.ilk
+custombuild/modules/gapi/opencv_perf_gapi.dir/Debug/cmake_pch.pch
+custombuild/modules/gapi/opencv_test_gapi.dir/Debug/opencv_test_gapid.ilk
+custombuild/modules/gapi/opencv_perf_gapi.dir/Release/cmake_pch.pch

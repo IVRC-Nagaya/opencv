@@ -1,0 +1,63 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_dnn_superres.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/include/opencv2/dnn_superres.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_superres",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/src/dnn_superres.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_superres",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_dnn_superres",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/vs_version.rc"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/opencv_dnn_superres_main.cpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_dnn_superres.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/dnn_superres/CMakeFiles/opencv_dnn_superres.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_dnn_superres",
+			"Module"
+		],
+		"name" : "opencv_dnn_superres"
+	}
+}
