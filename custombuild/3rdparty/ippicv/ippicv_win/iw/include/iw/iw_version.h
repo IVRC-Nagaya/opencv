@@ -17,10 +17,10 @@
 
 // Intel IPP IW version, equal to target Intel IPP package version
 #define IW_VERSION_MAJOR  2021
-#define IW_VERSION_MINOR  10
-#define IW_VERSION_UPDATE 1
+#define IW_VERSION_MINOR  11
+#define IW_VERSION_UPDATE 0
 
-#define IW_VERSION_STR "2021.10.1"
+#define IW_VERSION_STR "2021.11.0"
 
 // Version of minimal compatible Intel IPP package
 #define IW_MIN_COMPATIBLE_IPP_MAJOR  2017

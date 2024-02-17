@@ -147,7 +147,7 @@
 #endif
 
 #if defined(__riscv) && defined(__riscv_vector) && defined(__riscv_vector_071)
-# include<riscv_vector.h>
+# include<riscv-vector.h>
 # define CV_RVV071 1
 #endif
 

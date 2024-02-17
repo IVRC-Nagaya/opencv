@@ -739,9 +739,6 @@
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\fully_connected_layer.cpp">
       <Filter>opencv_dnn\Src\int8layers</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_rvp052.cpp">
-      <Filter>opencv_dnn\Src\int8layers</Filter>
-    </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\pooling_layer.cpp">
       <Filter>opencv_dnn\Src\int8layers</Filter>
     </ClCompile>
@@ -842,9 +839,6 @@
       <Filter>opencv_dnn\Src\layers</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\gemm_layer.cpp">
-      <Filter>opencv_dnn\Src\layers</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\group_norm_layer.cpp">
       <Filter>opencv_dnn\Src\layers</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\instance_norm_layer.cpp">
@@ -1054,9 +1048,6 @@
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\gemm_spv.cpp">
       <Filter>opencv_dnn\Src\vkcom\shader</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\nary_eltwise_binary_forward_spv.cpp">
-      <Filter>opencv_dnn\Src\vkcom\shader</Filter>
-    </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\spv_shader.cpp">
       <Filter>opencv_dnn\Src\vkcom\shader</Filter>
     </ClCompile>
@@ -1082,9 +1073,6 @@
       <Filter>opencv_dnn\Src\vkcom\src</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_matmul.cpp">
-      <Filter>opencv_dnn\Src\vkcom\src</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_naryEltwise.cpp">
       <Filter>opencv_dnn\Src\vkcom\src</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\pipeline.cpp">
@@ -2545,9 +2533,6 @@
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gbackend.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gcommon.cpp">
-      <Filter>opencv_gapi\Src</Filter>
-    </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gproto.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
@@ -2662,16 +2647,10 @@
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gtbbexecutor.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gthreadedexecutor.cpp">
-      <Filter>opencv_gapi\Src</Filter>
-    </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gstreamingexecutor.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gasync.cpp">
-      <Filter>opencv_gapi\Src</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\thread_pool.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\backends\cpu\gcpubackend.cpp">
@@ -5301,9 +5280,6 @@
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_common.simd.hpp">
       <Filter>opencv_dnn\Src\int8layers</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_rvp052.hpp">
-      <Filter>opencv_dnn\Src\int8layers</Filter>
-    </ClInclude>
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layer_internals.hpp">
       <Filter>opencv_dnn\Src</Filter>
     </ClInclude>
@@ -5437,9 +5413,6 @@
       <Filter>opencv_dnn\Src\vkcom\include</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_matmul.hpp">
-      <Filter>opencv_dnn\Src\vkcom\include</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_naryeltwise.hpp">
       <Filter>opencv_dnn\Src\vkcom\include</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\pipeline.hpp">

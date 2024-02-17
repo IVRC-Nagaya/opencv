@@ -9047,15 +9047,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/layers_rvp052.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/pooling_layer.cpp",
 			"labels" : 
 			[
@@ -9354,15 +9345,6 @@
 		},
 		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layers/gemm_layer.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layers/group_norm_layer.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -9992,15 +9974,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/shader/nary_eltwise_binary_forward_spv.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/shader/spv_shader.cpp",
 			"labels" : 
 			[
@@ -10074,15 +10047,6 @@
 		},
 		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/src/op_matmul.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/src/op_naryEltwise.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -10595,15 +10559,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/layers_rvp052.hpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layer_internals.hpp",
 			"labels" : 
 			[
@@ -11001,15 +10956,6 @@
 		},
 		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/include/op_matmul.hpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/include/op_naryeltwise.hpp",
 			"labels" : 
 			[
 				"Main",
@@ -17984,15 +17930,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/api/gcommon.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/api/gproto.cpp",
 			"labels" : 
 			[
@@ -18335,15 +18272,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gthreadedexecutor.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gstreamingexecutor.cpp",
 			"labels" : 
 			[
@@ -18354,15 +18282,6 @@
 		},
 		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gasync.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_world",
-				"Module"
-			]
-		},
-		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/thread_pool.cpp",
 			"labels" : 
 			[
 				"Main",

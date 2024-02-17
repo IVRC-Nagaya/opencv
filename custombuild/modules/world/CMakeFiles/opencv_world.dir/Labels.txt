@@ -4023,10 +4023,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  Main
  opencv_world
  Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/layers_rvp052.cpp
- Main
- opencv_world
- Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/pooling_layer.cpp
  Main
  opencv_world
@@ -4160,10 +4156,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  opencv_world
  Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layers/gemm_layer.cpp
- Main
- opencv_world
- Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layers/group_norm_layer.cpp
  Main
  opencv_world
  Module
@@ -4443,10 +4435,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  Main
  opencv_world
  Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/shader/nary_eltwise_binary_forward_spv.cpp
- Main
- opencv_world
- Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/shader/spv_shader.cpp
  Main
  opencv_world
@@ -4480,10 +4468,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  opencv_world
  Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/src/op_matmul.cpp
- Main
- opencv_world
- Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/src/op_naryEltwise.cpp
  Main
  opencv_world
  Module
@@ -4711,10 +4695,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  Main
  opencv_world
  Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/int8layers/layers_rvp052.hpp
- Main
- opencv_world
- Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/layer_internals.hpp
  Main
  opencv_world
@@ -4892,10 +4872,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/
  opencv_world
  Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/include/op_matmul.hpp
- Main
- opencv_world
- Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/dnn/src/vkcom/include/op_naryeltwise.hpp
  Main
  opencv_world
  Module
@@ -7995,10 +7971,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi
  Main
  opencv_world
  Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/api/gcommon.cpp
- Main
- opencv_world
- Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/api/gproto.cpp
  Main
  opencv_world
@@ -8151,19 +8123,11 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi
  Main
  opencv_world
  Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gthreadedexecutor.cpp
- Main
- opencv_world
- Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gstreamingexecutor.cpp
  Main
  opencv_world
  Module
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/gasync.cpp
- Main
- opencv_world
- Module
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/src/executor/thread_pool.cpp
  Main
  opencv_world
  Module

@@ -632,15 +632,6 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/test/own/thread_pool_tests.cpp",
-			"labels" : 
-			[
-				"Main",
-				"opencv_gapi",
-				"AccuracyTest"
-			]
-		},
-		{
 			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/test/render/ftp_render_test.cpp",
 			"labels" : 
 			[

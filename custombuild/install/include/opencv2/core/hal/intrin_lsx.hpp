@@ -860,7 +860,6 @@ class v_lsx_palignr_u8_class<imm, false, true, false, false, false>
 public:
     inline __m128i operator()(const __m128i& a, const __m128i& b) const
     {
-        CV_UNUSED(b);
         return a;
     }
 };
@@ -881,7 +880,6 @@ class v_lsx_palignr_u8_class<imm, false, false, false, true, false>
 public:
     inline __m128i operator()(const __m128i& a, const __m128i& b) const
     {
-        CV_UNUSED(a);
         return b;
     }
 };

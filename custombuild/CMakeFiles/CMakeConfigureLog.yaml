@@ -5656,3 +5656,339 @@ events:
         
       exitCode: 0
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "cmake/OpenCVFindFrameworks.cmake:23 (try_compile)"
+      - "CMakeLists.txt:807 (include)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W3 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_CONCURRENCY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_29434.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:44 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_29434.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_29434.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_29434.dir\\Release\\cmTC_29434.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_29434.dir\\Release\\cmTC_29434.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_29434.dir\\Release\\cmTC_29434.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_29434.dir\\Release\\\\" /Fd"cmTC_29434.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\concurrencytest.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_29434.dir\\Release\\\\" /Fd"cmTC_29434.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\concurrencytest.cpp
+          concurrencytest.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_29434.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_29434.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_29434.lib" /MACHINE:X64  /machine:x64 cmTC_29434.dir\\Release\\concurrencytest.obj
+          cmTC_29434.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_29434.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_29434.dir\\Release\\cmTC_29434.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_29434.dir\\Release\\cmTC_29434.tlog\\cmTC_29434.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_29434.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+            0 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.30
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "cmake/OpenCVDetectOpenCL.cmake:22 (try_compile)"
+      - "CMakeLists.txt:879 (include)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W3 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "__VALID_OPENCL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_53116.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:49 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_53116.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_53116.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_53116.dir\\Release\\cmTC_53116.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_53116.dir\\Release\\cmTC_53116.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_53116.dir\\Release\\cmTC_53116.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /IC:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\3rdparty\\include\\opencl\\1.2 /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_53116.dir\\Release\\\\" /Fd"cmTC_53116.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\opencl.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /IC:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\3rdparty\\include\\opencl\\1.2 /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_53116.dir\\Release\\\\" /Fd"cmTC_53116.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\opencl.cpp
+          opencl.cpp
+          OpenCL is valid
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_53116.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_53116.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_53116.lib" /MACHINE:X64  /machine:x64 cmTC_53116.dir\\Release\\opencl.obj
+          cmTC_53116.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_53116.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_53116.dir\\Release\\cmTC_53116.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_53116.dir\\Release\\cmTC_53116.tlog\\cmTC_53116.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_53116.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+            0 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.30
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "cmake/OpenCVDetectDirectX.cmake:2 (try_compile)"
+      - "CMakeLists.txt:904 (include)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W3 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "__VALID_DIRECTX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c5fc6.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:50 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_c5fc6.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_c5fc6.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_c5fc6.dir\\Release\\cmTC_c5fc6.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_c5fc6.dir\\Release\\cmTC_c5fc6.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_c5fc6.dir\\Release\\cmTC_c5fc6.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c5fc6.dir\\Release\\\\" /Fd"cmTC_c5fc6.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directx.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c5fc6.dir\\Release\\\\" /Fd"cmTC_c5fc6.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directx.cpp
+          directx.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_c5fc6.exe" /INCREMENTAL:NO /NOLOGO d3d11.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_c5fc6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_c5fc6.lib" /MACHINE:X64  /machine:x64 cmTC_c5fc6.dir\\Release\\directx.obj
+          cmTC_c5fc6.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_c5fc6.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_c5fc6.dir\\Release\\cmTC_c5fc6.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_c5fc6.dir\\Release\\cmTC_c5fc6.tlog\\cmTC_c5fc6.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_c5fc6.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+            0 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.53
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "cmake/OpenCVDetectDirectX.cmake:12 (try_compile)"
+      - "CMakeLists.txt:904 (include)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W3 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "__VALID_DIRECTX_NV12"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f7ec0.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:50 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_f7ec0.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_f7ec0.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_f7ec0.dir\\Release\\cmTC_f7ec0.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_f7ec0.dir\\Release\\cmTC_f7ec0.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_f7ec0.dir\\Release\\cmTC_f7ec0.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D CHECK_NV12 /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f7ec0.dir\\Release\\\\" /Fd"cmTC_f7ec0.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directx.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D CHECK_NV12 /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f7ec0.dir\\Release\\\\" /Fd"cmTC_f7ec0.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directx.cpp
+          directx.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_f7ec0.exe" /INCREMENTAL:NO /NOLOGO d3d11.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_f7ec0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_f7ec0.lib" /MACHINE:X64  /machine:x64 cmTC_f7ec0.dir\\Release\\directx.obj
+          cmTC_f7ec0.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_f7ec0.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_f7ec0.dir\\Release\\cmTC_f7ec0.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_f7ec0.dir\\Release\\cmTC_f7ec0.tlog\\cmTC_f7ec0.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_f7ec0.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+            0 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.51
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "cmake/OpenCVDetectDirectML.cmake:2 (try_compile)"
+      - "CMakeLists.txt:908 (include)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W3 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "__VALID_DIRECTML"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_697d9.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:51 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_697d9.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_697d9.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_697d9.dir\\Release\\cmTC_697d9.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_697d9.dir\\Release\\cmTC_697d9.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_697d9.dir\\Release\\cmTC_697d9.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_697d9.dir\\Release\\\\" /Fd"cmTC_697d9.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directml.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /W3 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_697d9.dir\\Release\\\\" /Fd"cmTC_697d9.dir\\Release\\vc143.pdb" /external:W3 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\directml.cpp
+          directml.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_697d9.exe" /INCREMENTAL:NO /NOLOGO d3d12.lib dxcore.lib directml.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_697d9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_697d9.lib" /MACHINE:X64  /machine:x64 cmTC_697d9.dir\\Release\\directml.obj
+          cmTC_697d9.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_697d9.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_697d9.dir\\Release\\cmTC_697d9.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_697d9.dir\\Release\\cmTC_697d9.tlog\\cmTC_697d9.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_697d9.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+            0 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.55
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "modules/highgui/cmake/detect_win32ui.cmake:4 (try_compile)"
+      - "modules/highgui/cmake/init.cmake:35 (include)"
+      - "modules/highgui/cmake/init.cmake:40 (add_backend)"
+      - "cmake/OpenCVModule.cmake:298 (include)"
+      - "cmake/OpenCVModule.cmake:361 (_add_modules_1)"
+      - "cmake/OpenCVModule.cmake:408 (ocv_glob_modules)"
+      - "CMakeLists.txt:1032 (ocv_register_modules)"
+    directories:
+      source: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /DWIN32 /D_WINDOWS /W4 /GR  /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /Gy /bigobj /Oi  /fp:precise     /EHa /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /MP"
+      CMAKE_CXX_FLAGS_RELEASE: " /O2 /Ob2 /DNDEBUG "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64 "
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_WIN32UI"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5f69b.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild のバージョン 17.9.5+33de0b227 (.NET Framework)
+        2024/02/18 1:59:52 にビルドを開始しました。
+        
+        ノード 1 上のプロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj" (既定のターゲット)。
+        PrepareForBuild:
+          ディレクトリ "cmTC_5f69b.dir\\Release\\" を作成しています。
+          構造化出力が有効になっています。コンパイラ診断の書式設定にはエラー階層が反映されます。詳細については、https://aka.ms/cpp/structured-output を参照してください。
+          ディレクトリ "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\" を作成しています。
+          ディレクトリ "cmTC_5f69b.dir\\Release\\cmTC_5f69b.tlog\\" を作成しています。
+        InitializeBuildStatus:
+          "AlwaysCreate" が指定されたため "cmTC_5f69b.dir\\Release\\cmTC_5f69b.tlog\\unsuccessfulbuild" を作成しています。
+          "cmTC_5f69b.dir\\Release\\cmTC_5f69b.tlog\\unsuccessfulbuild" のタッチ タスクを実行しています。
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /W4 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5f69b.dir\\Release\\\\" /Fd"cmTC_5f69b.dir\\Release\\vc143.pdb" /external:W4 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp
+          Microsoft(R) C/C++ Optimizing Compiler Version 19.39.33519 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /W4 /WX- /diagnostics:column /MP /O2 /Ob2 /Oi /D _MBCS /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _SCL_SECURE_NO_WARNINGS /D NDEBUG /D "CMAKE_INTDIR=\\"Release\\"" /Gm- /EHa /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5f69b.dir\\Release\\\\" /Fd"cmTC_5f69b.dir\\Release\\vc143.pdb" /external:W4 /Gd /TP /wd4127 /wd4251 /wd4324 /wd4275 /wd4512 /wd4589 /wd4819 /errorReport:queue  /bigobj C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp
+          win32uitest.cpp
+        C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp(3,27): warning C4100: 'argv': 引数は関数の本体部で 1 度も参照されません。 [C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj]
+        C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp(3,14): warning C4100: 'argc': 引数は関数の本体部で 1 度も参照されません。 [C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj]
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_5f69b.exe" /INCREMENTAL:NO /NOLOGO user32.lib gdi32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_5f69b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/CMakeTmp/Release/cmTC_5f69b.lib" /MACHINE:X64  /machine:x64 cmTC_5f69b.dir\\Release\\win32uitest.obj
+          cmTC_5f69b.vcxproj -> C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\Release\\cmTC_5f69b.exe
+        FinalizeBuildStatus:
+          ファイル "cmTC_5f69b.dir\\Release\\cmTC_5f69b.tlog\\unsuccessfulbuild" を削除しています。
+          "cmTC_5f69b.dir\\Release\\cmTC_5f69b.tlog\\cmTC_5f69b.lastbuildstate" のタッチ タスクを実行しています。
+        プロジェクト "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj" (既定のターゲット) のビルドが完了しました。
+        
+        ビルドに成功しました。
+        
+        "C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj" (既定のターゲット) (1) ->
+        (ClCompile ターゲット) -> 
+          C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp(3,27): warning C4100: 'argv': 引数は関数の本体部で 1 度も参照されません。 [C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj]
+          C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\cmake\\checks\\win32uitest.cpp(3,14): warning C4100: 'argc': 引数は関数の本体部で 1 度も参照されません。 [C:\\Users\\nidok\\Desktop\\Unity\\firework2\\firework2_cvdll\\CvDll\\opencv\\custombuild\\CMakeFiles\\CMakeTmp\\cmTC_5f69b.vcxproj]
+        
+            2 個の警告
+            0 エラー
+        
+        経過時間 00:00:00.57
+        
+      exitCode: 0
+...

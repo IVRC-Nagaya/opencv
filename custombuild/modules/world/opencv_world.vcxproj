@@ -1794,7 +1794,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\fully_connected_layer.cpp">
       <ObjectFileName>$(IntDir)/__/dnn/src/int8layers/fully_connected_layer.cpp.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_rvp052.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\pooling_layer.cpp">
       <ObjectFileName>$(IntDir)/__/dnn/src/int8layers/pooling_layer.cpp.obj</ObjectFileName>
     </ClCompile>
@@ -1845,7 +1844,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\gather_elements_layer.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\gather_layer.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\gemm_layer.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\group_norm_layer.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\instance_norm_layer.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\layer_norm.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\layers_common.cpp" />
@@ -1923,7 +1921,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\conv_depthwise_spv.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\conv_implicit_gemm_spv.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\gemm_spv.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\nary_eltwise_binary_forward_spv.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\shader\spv_shader.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\buffer.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\command.cpp" />
@@ -1933,7 +1930,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_base.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_conv.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_matmul.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\op_naryEltwise.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\pipeline.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\src\tensor.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\vulkan\vk_functions.cpp" />
@@ -2015,7 +2011,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\ie_ngraph.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_common.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_common.simd.hpp" />
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\int8layers\layers_rvp052.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layer_internals.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\cpu_kernels\conv_block.simd.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\layers\cpu_kernels\conv_depthwise.simd.hpp" />
@@ -2061,7 +2056,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_base.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_conv.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_matmul.hpp" />
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\op_naryeltwise.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\pipeline.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\tensor.hpp" />
     <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\src\vkcom\include\vkcom.hpp" />
@@ -2931,7 +2925,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gframe.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gkernel.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gbackend.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gcommon.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gproto.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gnode.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\api\gcall.cpp" />
@@ -2970,10 +2963,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gabstractstreamingexecutor.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gexecutor.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gtbbexecutor.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gthreadedexecutor.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gstreamingexecutor.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\gasync.cpp" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\executor\thread_pool.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\backends\cpu\gcpubackend.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\backends\cpu\gcpukernel.cpp" />
     <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\src\backends\cpu\gcpuimgproc.cpp" />

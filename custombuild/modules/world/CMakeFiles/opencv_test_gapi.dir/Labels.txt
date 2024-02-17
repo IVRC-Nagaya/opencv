@@ -283,10 +283,6 @@ C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi
  Main
  opencv_gapi
  AccuracyTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/test/own/thread_pool_tests.cpp
- Main
- opencv_gapi
- AccuracyTest
 C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/gapi/test/render/ftp_render_test.cpp
  Main
  opencv_gapi
