@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_superres\test\test_dnn_superres.cpp">
+      <Filter>opencv_dnn_superres\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_superres\test\test_main.cpp">
+      <Filter>opencv_dnn_superres\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_superres\test\test_precomp.hpp">
+      <Filter>opencv_dnn_superres\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_dnn_superres">
+      <UniqueIdentifier>{26CBF07C-44D2-338E-A02D-7973AB60C381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_dnn_superres\Include">
+      <UniqueIdentifier>{FA1F49BF-6BC1-36A7-B92B-B65A71278148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_dnn_superres\Src">
+      <UniqueIdentifier>{4A5F292A-E8A1-31DF-A879-20ED0BA234DB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

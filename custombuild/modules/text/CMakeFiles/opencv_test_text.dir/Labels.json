@@ -1,0 +1,60 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/text/CMakeFiles/opencv_test_text.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/test/test_detection.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/test/test_detection_swt.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_text",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/text/CMakeFiles/opencv_test_text.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/text/CMakeFiles/opencv_test_text.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_text",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_text"
+	}
+}

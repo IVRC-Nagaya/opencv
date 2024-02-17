@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\ocl\test_tsdf.cpp">
+      <Filter>opencv_rgbd\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_colored_kinfu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_dynafu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_kinfu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_main.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_normal.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_odometry.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_pose_graph.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_registration.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_tsdf.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_utils.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\test\test_precomp.hpp">
+      <Filter>opencv_rgbd\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_rgbd">
+      <UniqueIdentifier>{5154380F-8CBD-3606-BDCE-3A78E7A3DD31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Include">
+      <UniqueIdentifier>{B5EAC7EB-CC5D-325B-8F44-6866E79BE752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Src">
+      <UniqueIdentifier>{63C0E988-B5B0-36B8-BD3B-0335EB2C039F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Src\ocl">
+      <UniqueIdentifier>{66EFED75-8B2F-30DD-8B58-F80053689649}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

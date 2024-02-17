@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\cuda_perf.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\cuda_test.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ocl_perf.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ocl_test.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_arrtest.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_func.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_gtest.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_perf.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_tags.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\cuda_perf.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\cuda_test.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\ocl_perf.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\ocl_test.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\ts_ext.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\ts_gtest.h">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\include\opencv2\ts\ts_perf.hpp">
+      <Filter>Include\opencv2\ts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\src\ts_tags.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{CCAE1D5D-FA11-3081-9F19-EAEF614A3B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{694E96D4-D6C9-35E3-98D3-E171231C342A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\ts">
+      <UniqueIdentifier>{25E3A622-2ABC-309A-870B-15B12A04DC86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{F3FD9B2D-6507-34FC-9E70-AF849E217259}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

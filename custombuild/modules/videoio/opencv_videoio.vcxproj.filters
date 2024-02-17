@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\videoio\CMakeFiles\opencv_videoio.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\videoio_registry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\videoio_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_images.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_mjpeg_encoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_mjpeg_decoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\backend_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\backend_static.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\container_avi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_dshow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_msmf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor_capture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor\obsensor_uvc_stream_channel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor\obsensor_stream_channel_msmf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\videoio\opencv_videoio_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\cap_ios.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\container_avi.private.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\legacy\constants_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\registry.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\utils.private.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\videoio.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\include\opencv2\videoio\videoio_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_dshow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor\obsensor_stream_channel_interface.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor\obsensor_stream_channel_msmf.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor\obsensor_uvc_stream_channel.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_obsensor_capture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\precomp.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\src\cap_msmf.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\videoio\CMakeFiles\opencv_videoio.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\videoio\CMakeFiles\opencv_videoio.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\videoio\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8AC0DFCA-1B41-362C-BA97-D8FFE7C23DAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{CCAE1D5D-FA11-3081-9F19-EAEF614A3B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{8E9E4D7D-DEC3-3F44-B804-FA0DA4386C7D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{F3FD9B2D-6507-34FC-9E70-AF849E217259}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\test\test_faps.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\test\test_getProjPixel.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\test\test_main.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\test\test_plane.cpp">
+      <Filter>opencv_structured_light\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\test\test_precomp.hpp">
+      <Filter>opencv_structured_light\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_structured_light">
+      <UniqueIdentifier>{9E9CDEFD-82A0-3E73-AA97-B3CB3F5EED44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_structured_light\Include">
+      <UniqueIdentifier>{E8F23DAA-DD99-31C9-9CE3-3697C0DBA729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_structured_light\Src">
+      <UniqueIdentifier>{6F6CF15B-0694-3AE5-96E1-6199819E9450}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

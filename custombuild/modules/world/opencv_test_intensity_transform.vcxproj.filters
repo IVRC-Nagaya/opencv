@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\intensity_transform\test\test_intensity_transform.cpp">
+      <Filter>opencv_intensity_transform\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\intensity_transform\test\test_main.cpp">
+      <Filter>opencv_intensity_transform\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\intensity_transform\test\test_precomp.hpp">
+      <Filter>opencv_intensity_transform\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_intensity_transform">
+      <UniqueIdentifier>{7CA314A3-C87B-356C-B831-534C366F8BAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_intensity_transform\Include">
+      <UniqueIdentifier>{F0FB105E-CCFC-3DFD-AFD6-FBA069F65F5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_intensity_transform\Src">
+      <UniqueIdentifier>{9CE78880-4848-3C13-BD4E-B161A346D080}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

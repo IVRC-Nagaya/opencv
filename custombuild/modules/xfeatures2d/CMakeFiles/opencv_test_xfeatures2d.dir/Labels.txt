@@ -1,0 +1,48 @@
+# Target labels
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xfeatures2d/CMakeFiles/opencv_test_xfeatures2d.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_detectors.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_features2d.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_gms_matcher.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_keypoints.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_logos_matcher.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_main.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_rotation_and_scale_invariance.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_surf.cuda.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_surf.ocl.cpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/test/test_precomp.hpp
+ Extra
+ opencv_xfeatures2d
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xfeatures2d/CMakeFiles/opencv_test_xfeatures2d.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xfeatures2d/CMakeFiles/opencv_test_xfeatures2d.dir/Release/cmake_pch.hxx

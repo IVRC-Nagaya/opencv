@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_main.cpp">
+      <Filter>opencv_wechat_qrcode\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_wechat_qrcode_pipeline.cpp">
+      <Filter>opencv_wechat_qrcode\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_precomp.hpp">
+      <Filter>opencv_wechat_qrcode\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_wechat_qrcode">
+      <UniqueIdentifier>{96BCE3A5-EBEB-3BE9-A7D4-10EC4084E258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_wechat_qrcode\Include">
+      <UniqueIdentifier>{58D3F5DF-8B51-3C8D-B363-E302D3499C8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_wechat_qrcode\Src">
+      <UniqueIdentifier>{7CB607CD-3EEE-3486-92A3-417D74D03586}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

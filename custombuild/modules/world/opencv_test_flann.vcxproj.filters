@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\flann\test\test_lshtable_badarg.cpp">
+      <Filter>opencv_flann\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\flann\test\test_main.cpp">
+      <Filter>opencv_flann\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\flann\test\test_precomp.hpp">
+      <Filter>opencv_flann\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_flann">
+      <UniqueIdentifier>{CFE4699A-F8CD-333A-9DA8-978AA188CAAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_flann\Include">
+      <UniqueIdentifier>{54CA8C7C-02D4-38A2-A7AB-2F707AB1B095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_flann\Src">
+      <UniqueIdentifier>{C9864683-0973-3064-A6E2-789335A2B8B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

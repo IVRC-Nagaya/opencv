@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaoptflow\perf\perf_main.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaoptflow\perf\perf_optflow.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaoptflow\perf\perf_precomp.hpp">
+      <Filter>opencv_cudaoptflow\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\sources\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaoptflow">
+      <UniqueIdentifier>{FA03E3FE-C48F-3E80-82C0-A64D480B518B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Include">
+      <UniqueIdentifier>{3A640DB0-3F3D-3901-B03C-9999A0144191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Src">
+      <UniqueIdentifier>{7FA34664-F32B-33B2-A1E9-79167CBB675B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

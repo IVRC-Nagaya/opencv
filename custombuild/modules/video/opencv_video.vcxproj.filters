@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\CMakeFiles\opencv_video.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\bgfg_KNN.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\bgfg_gaussmix2.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\camshift.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\dis_flow.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\ecc.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\kalman.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\lkpyramid.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\optflowgf.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\optical_flow_io.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_feature.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_feature_set.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_mil_model.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_mil_state.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_model.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_sampler.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_sampler_algorithm.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_state_estimator.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracking_feature.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracking_online_mil.cpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker_dasiamrpn.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker_goturn.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker_mil.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker_nano.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\tracker_vit.cpp">
+      <Filter>Src\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\variational_refinement.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\opencl_kernels_video.cpp">
+      <Filter>Src\opencl\kernels\autogenerated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\opencv_video_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video\background_segm.hpp">
+      <Filter>Include\opencv2\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video\detail\tracking.detail.hpp">
+      <Filter>Include\opencv2\video\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video\legacy\constants_c.h">
+      <Filter>Include\opencv2\video\legacy</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video\tracking.hpp">
+      <Filter>Include\opencv2\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\include\opencv2\video\video.hpp">
+      <Filter>Include\opencv2\video</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\opencl_kernels_video.hpp">
+      <Filter>Src\opencl\kernels\autogenerated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\lkpyramid.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_feature_haar.impl.hpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_mil_model.hpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracker_mil_state.hpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracking_feature.hpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\tracking\detail\tracking_online_mil.hpp">
+      <Filter>Src\tracking\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\CMakeFiles\opencv_video.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\CMakeFiles\opencv_video.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\CMakeFiles\26a52be0caa70190de95f90dd1c604bd\opencl_kernels_video.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\opencl\bgfg_knn.cl">
+      <Filter>Src\opencl\kernels</Filter>
+    </None>
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\opencl\bgfg_mog2.cl">
+      <Filter>Src\opencl\kernels</Filter>
+    </None>
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\opencl\dis_flow.cl">
+      <Filter>Src\opencl\kernels</Filter>
+    </None>
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\opencl\optical_flow_farneback.cl">
+      <Filter>Src\opencl\kernels</Filter>
+    </None>
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\src\opencl\pyrlk.cl">
+      <Filter>Src\opencl\kernels</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\video\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70DD7B4F-1593-3998-857D-D874081A8EE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{CCAE1D5D-FA11-3081-9F19-EAEF614A3B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{694E96D4-D6C9-35E3-98D3-E171231C342A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\video">
+      <UniqueIdentifier>{BF3B50E8-4F39-3F49-94BB-3FA357C3ED0D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\video\detail">
+      <UniqueIdentifier>{DD3653FA-7F96-38F2-87EF-DC2627A634C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\video\legacy">
+      <UniqueIdentifier>{B5910614-4BB4-35CE-A12B-34156CF63C22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{8E9E4D7D-DEC3-3F44-B804-FA0DA4386C7D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{F3FD9B2D-6507-34FC-9E70-AF849E217259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\opencl">
+      <UniqueIdentifier>{88CBD861-DDE3-31F1-8B11-FF88CB9AFF73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\opencl\kernels">
+      <UniqueIdentifier>{30F1752E-B973-3ED9-9187-2FB192A1ACDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\opencl\kernels\autogenerated">
+      <UniqueIdentifier>{EB05B614-C805-3214-A29B-5272A4E6C094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\tracking">
+      <UniqueIdentifier>{B2DF05CB-31A5-35C7-9C5B-D01B3D543C0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\tracking\detail">
+      <UniqueIdentifier>{D6E96BD4-D678-3CAE-9AA8-7855F205C84E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

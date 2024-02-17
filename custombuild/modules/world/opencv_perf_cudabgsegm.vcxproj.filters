@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudabgsegm\perf\perf_bgsegm.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudabgsegm\perf\perf_main.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudabgsegm\perf\perf_precomp.hpp">
+      <Filter>opencv_cudabgsegm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\sources\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudabgsegm">
+      <UniqueIdentifier>{E7619E43-05B0-3D25-B07C-AE5E44AC5914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Include">
+      <UniqueIdentifier>{DA195109-BFB2-35C8-AEE4-1EEAF60663F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Src">
+      <UniqueIdentifier>{65B73C31-9631-3B29-B801-8B28BC5A7BED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

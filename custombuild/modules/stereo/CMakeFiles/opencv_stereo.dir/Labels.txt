@@ -1,0 +1,56 @@
+# Target labels
+ Extra
+ opencv_stereo
+ Module
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_stereo.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/include/opencv2/stereo.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/include/opencv2/stereo/descriptor.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/include/opencv2/stereo/quasi_dense_stereo.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/include/opencv2/stereo/stereo.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/descriptor.cpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/quasi_dense_stereo.cpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/stereo_binary_bm.cpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/stereo_binary_sgbm.cpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/descriptor.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/matching.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/src/precomp.hpp
+ Extra
+ opencv_stereo
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/vs_version.rc
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/opencv_stereo_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_stereo.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_stereo.dir/Release/cmake_pch.hxx

@@ -1,0 +1,72 @@
+# Target labels
+ Extra
+ opencv_shape
+ Module
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/shape/CMakeFiles/opencv_shape.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape/emdL1.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape/hist_cost.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape/shape.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape/shape_distance.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/include/opencv2/shape/shape_transformer.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/aff_trans.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/emdL1.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/haus_dis.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/hist_cost.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/sc_dis.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/tps_trans.cpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/emdL1_def.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/precomp.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/src/scd_def.hpp
+ Extra
+ opencv_shape
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/shape/vs_version.rc
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/shape/opencv_shape_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/shape/CMakeFiles/opencv_shape.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/shape/CMakeFiles/opencv_shape.dir/Release/cmake_pch.hxx

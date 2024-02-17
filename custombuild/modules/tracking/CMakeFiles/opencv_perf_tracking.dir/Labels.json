@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/tracking/CMakeFiles/opencv_perf_tracking.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/tracking/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/tracking/perf/perf_trackers.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/tracking/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_tracking",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/tracking/CMakeFiles/opencv_perf_tracking.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/tracking/CMakeFiles/opencv_perf_tracking.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_tracking",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_tracking"
+	}
+}

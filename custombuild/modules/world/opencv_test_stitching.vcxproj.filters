@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\ocl\test_warpers.cpp">
+      <Filter>opencv_stitching\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_blenders.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_blenders.cuda.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_exposure_compensate.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_main.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_matchers.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_reprojection.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_stitcher.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_wave_correction.cpp">
+      <Filter>opencv_stitching\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\test\test_precomp.hpp">
+      <Filter>opencv_stitching\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_stitching">
+      <UniqueIdentifier>{BA4E3321-0B02-3D68-B6EE-977B12F80094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Include">
+      <UniqueIdentifier>{34182D4F-F409-3822-BFC4-8F9F7154B8B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src">
+      <UniqueIdentifier>{3DFC3115-89AB-3C21-82CA-554224BE0CEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_stitching\Src\ocl">
+      <UniqueIdentifier>{66B75AF3-1F33-3F0D-8D94-C664265AD5C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

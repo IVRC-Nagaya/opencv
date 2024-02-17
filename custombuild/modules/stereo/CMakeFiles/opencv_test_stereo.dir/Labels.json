@@ -1,0 +1,69 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_test_stereo.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/test/test_block_matching.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/test/test_descriptors.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/test/test_qds_matching.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_stereo",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_test_stereo.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/stereo/CMakeFiles/opencv_test_stereo.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_stereo",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_stereo"
+	}
+}

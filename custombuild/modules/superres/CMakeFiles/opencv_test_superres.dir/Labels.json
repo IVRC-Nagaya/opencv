@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/superres/CMakeFiles/opencv_test_superres.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/superres/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_superres",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/superres/test/test_superres.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_superres",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/superres/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_superres",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/superres/CMakeFiles/opencv_test_superres.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/superres/CMakeFiles/opencv_test_superres.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_superres",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_superres"
+	}
+}

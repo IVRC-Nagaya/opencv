@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_test_wechat_qrcode.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_wechat_qrcode",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/test/test_qrcode.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_wechat_qrcode",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_wechat_qrcode",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_test_wechat_qrcode.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_test_wechat_qrcode.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_wechat_qrcode",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_wechat_qrcode"
+	}
+}

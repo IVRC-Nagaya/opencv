@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\cuda\perf_gpumat.cpp">
+      <Filter>opencv_core\Src\cuda</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_arithm.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_bufferpool.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_channels.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_dxt.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_gemm.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_matop.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\opencl\perf_usage_flags.cpp">
+      <Filter>opencv_core\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_abs.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_addWeighted.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_allocation.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_arithm.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_bitwise.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_compare.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_convertTo.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_cvround.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_dft.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_dot.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_inRange.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_io_base64.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_lut.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_main.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_mat.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_math.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_merge.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_minmaxloc.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_norm.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_reduce.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_sort.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_split.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_stat.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_umat.cpp">
+      <Filter>opencv_core\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\perf\perf_precomp.hpp">
+      <Filter>opencv_core\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_core">
+      <UniqueIdentifier>{55422286-7ABB-3B8F-B393-D694E2DA7754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_core\Include">
+      <UniqueIdentifier>{9900CCFF-6827-3F6E-A50A-324900E86B9B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_core\Src">
+      <UniqueIdentifier>{1AFF52EA-1D62-3C11-A629-62B54153C194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_core\Src\cuda">
+      <UniqueIdentifier>{B87E5F3A-4E34-31A9-A10B-E90C0E3D7156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_core\Src\opencl">
+      <UniqueIdentifier>{B6BBE001-1E53-33B7-8B88-A6DD80F8098B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

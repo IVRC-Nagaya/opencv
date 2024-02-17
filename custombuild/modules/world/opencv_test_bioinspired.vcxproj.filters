@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bioinspired\test\test_main.cpp">
+      <Filter>opencv_bioinspired\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bioinspired\test\test_retina_ocl.cpp">
+      <Filter>opencv_bioinspired\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bioinspired\test\test_precomp.hpp">
+      <Filter>opencv_bioinspired\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_bioinspired">
+      <UniqueIdentifier>{9B1C31BD-5008-300B-858C-EF0021C82B1A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_bioinspired\Include">
+      <UniqueIdentifier>{95AA9C35-ED84-32E0-87FF-82F7763EC4BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_bioinspired\Src">
+      <UniqueIdentifier>{6C1D77B3-CFE2-3A75-963D-61A428271AA9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_arithm.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_core.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_element_operations.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_main.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_reductions.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudaarithm\perf\perf_precomp.hpp">
+      <Filter>opencv_cudaarithm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\sources\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaarithm">
+      <UniqueIdentifier>{F674886D-2948-369E-A91E-D345BDBD71F2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Include">
+      <UniqueIdentifier>{E2044583-959E-353D-A392-D59ADC676C0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Src">
+      <UniqueIdentifier>{BA1EF549-7E7E-3942-97B5-585B34ED0869}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

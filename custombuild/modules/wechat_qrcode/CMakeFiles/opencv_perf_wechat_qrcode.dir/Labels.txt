@@ -1,0 +1,20 @@
+# Target labels
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_perf_wechat_qrcode.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/perf/perf_main.cpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/perf/perf_wechat_qrcode_pipeline.cpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/perf/perf_precomp.hpp
+ Extra
+ opencv_wechat_qrcode
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_perf_wechat_qrcode.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/wechat_qrcode/CMakeFiles/opencv_perf_wechat_qrcode.dir/Release/cmake_pch.hxx

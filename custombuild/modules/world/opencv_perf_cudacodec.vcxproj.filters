@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudacodec\perf\perf_main.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudacodec\perf\perf_video.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudacodec\perf\perf_precomp.hpp">
+      <Filter>opencv_cudacodec\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\sources\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudacodec">
+      <UniqueIdentifier>{8E2C4C10-3D50-3D7B-B6C0-8C2BF0FD5D34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Include">
+      <UniqueIdentifier>{BF8676F6-1CD2-3832-8320-E8C0A4E40BD4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Src">
+      <UniqueIdentifier>{1E0BC752-EDFF-375F-BF79-453BE1B80AE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

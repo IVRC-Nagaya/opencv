@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\wechat_qrcode\CMakeFiles\opencv_wechat_qrcode.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\binarizermgr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\decodermgr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\detector\align.cpp">
+      <Filter>Src\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\detector\ssd_detector.cpp">
+      <Filter>Src\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\imgsource.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\scale\super_scale.cpp">
+      <Filter>Src\scale</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\wechat_qrcode.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\binarizer.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\binarybitmap.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\adaptive_threshold_mean_binarizer.cpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\fast_window_binarizer.cpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\global_histogram_binarizer.cpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\hybrid_binarizer.cpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\simple_adaptive_binarizer.cpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitarray.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitmatrix.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitsource.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bytematrix.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\characterseteci.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\decoder_result.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\detector_result.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\greyscale_luminance_source.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\greyscale_rotated_luminance_source.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\grid_sampler.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\imagecut.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\kmeans.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\perspective_transform.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\genericgf.cpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\genericgfpoly.cpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\reed_solomon_decoder.cpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\str.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\stringutils.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\unicomblock.cpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\errorhandler.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\luminance_source.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\bitmatrixparser.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\datablock.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\datamask.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\decoded_bit_stream_parser.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\decoder.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\mode.cpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\alignment_pattern.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\alignment_pattern_finder.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\detector.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern_finder.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern_info.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\pattern_result.cpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\error_correction_level.cpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\format_information.cpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\qrcode_reader.cpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\version.cpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\reader.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\result.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\resultpoint.cpp">
+      <Filter>Src\zxing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\wechat_qrcode\opencv_wechat_qrcode_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\include\opencv2\wechat_qrcode.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\binarizermgr.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\decodermgr.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\detector\align.hpp">
+      <Filter>Src\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\detector\ssd_detector.hpp">
+      <Filter>Src\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\imgsource.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\scale\super_scale.hpp">
+      <Filter>Src\scale</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\binarizer.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\binarybitmap.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\array.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\adaptive_threshold_mean_binarizer.hpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\fast_window_binarizer.hpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\global_histogram_binarizer.hpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\hybrid_binarizer.hpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\binarizer\simple_adaptive_binarizer.hpp">
+      <Filter>Src\zxing\common\binarizer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitarray.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitmatrix.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bitsource.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\bytematrix.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\characterseteci.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\counted.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\decoder_result.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\detector_result.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\greyscale_luminance_source.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\greyscale_rotated_luminance_source.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\grid_sampler.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\imagecut.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\kmeans.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\mathutils.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\perspective_transform.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\genericgf.hpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\genericgfpoly.hpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\reedsolomon\reed_solomon_decoder.hpp">
+      <Filter>Src\zxing\common\reedsolomon</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\str.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\stringutils.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\common\unicomblock.hpp">
+      <Filter>Src\zxing\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\decodehints.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\errorhandler.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\luminance_source.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\bitmatrixparser.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\datablock.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\datamask.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\decoded_bit_stream_parser.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\decoder.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\mode.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\decoder\qrcode_decoder_metadata.hpp">
+      <Filter>Src\zxing\qrcode\decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\alignment_pattern.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\alignment_pattern_finder.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\detector.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern_finder.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\finder_pattern_info.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\detector\pattern_result.hpp">
+      <Filter>Src\zxing\qrcode\detector</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\error_correction_level.hpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\format_information.hpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\qrcode_reader.hpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\qrcode\version.hpp">
+      <Filter>Src\zxing\qrcode</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\reader.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\result.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\resultpoint.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\src\zxing\zxing.hpp">
+      <Filter>Src\zxing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\wechat_qrcode\CMakeFiles\opencv_wechat_qrcode.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\wechat_qrcode\CMakeFiles\opencv_wechat_qrcode.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\wechat_qrcode\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{CCAE1D5D-FA11-3081-9F19-EAEF614A3B41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{694E96D4-D6C9-35E3-98D3-E171231C342A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{8E9E4D7D-DEC3-3F44-B804-FA0DA4386C7D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{F3FD9B2D-6507-34FC-9E70-AF849E217259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\detector">
+      <UniqueIdentifier>{2428E225-02D3-3117-A54E-7E2AC18A935A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\scale">
+      <UniqueIdentifier>{CAC7E587-C1C8-3588-85E8-1B92858E975B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing">
+      <UniqueIdentifier>{D07A33D8-988E-309B-A9B7-529C957FC1A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\common">
+      <UniqueIdentifier>{B9C34644-256D-30A4-8D7E-F08065B781E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\common\binarizer">
+      <UniqueIdentifier>{AAA60301-FB9B-3912-82F8-0EAA5A1D8462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\common\reedsolomon">
+      <UniqueIdentifier>{0377787E-152E-389C-9F41-1B35BD4B7ECE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\qrcode">
+      <UniqueIdentifier>{9A1A4F8F-BCBF-31C8-A02F-DD68D310A582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\qrcode\decoder">
+      <UniqueIdentifier>{174B74A6-8D2A-379A-95DE-1B135A64D5AD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\zxing\qrcode\detector">
+      <UniqueIdentifier>{B399940D-2410-38DC-999C-0DA159AB16E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

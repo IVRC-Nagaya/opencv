@@ -1,0 +1,40 @@
+# Target labels
+ Extra
+ opencv_structured_light
+ Module
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/structured_light/CMakeFiles/opencv_structured_light.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/include/opencv2/structured_light.hpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/include/opencv2/structured_light/graycodepattern.hpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/include/opencv2/structured_light/sinusoidalpattern.hpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/include/opencv2/structured_light/structured_light.hpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/src/graycodepattern.cpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/src/sinusoidalpattern.cpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/src/precomp.hpp
+ Extra
+ opencv_structured_light
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/structured_light/vs_version.rc
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/structured_light/opencv_structured_light_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/structured_light/CMakeFiles/opencv_structured_light.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/structured_light/CMakeFiles/opencv_structured_light.dir/Release/cmake_pch.hxx

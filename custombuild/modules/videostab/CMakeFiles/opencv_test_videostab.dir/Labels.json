@@ -1,0 +1,60 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/videostab/CMakeFiles/opencv_test_videostab.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/videostab/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_videostab",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/videostab/test/test_motion_estimation.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_videostab",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/videostab/test/test_stabilizer.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_videostab",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/videostab/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_videostab",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/videostab/CMakeFiles/opencv_test_videostab.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/videostab/CMakeFiles/opencv_test_videostab.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_videostab",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_videostab"
+	}
+}

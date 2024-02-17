@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_beblid.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_daisy.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_latch.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_main.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_msd.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_surf.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_surf.cuda.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_surf.ocl.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_teblid.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_vgg.cpp">
+      <Filter>opencv_xfeatures2d\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\perf\perf_precomp.hpp">
+      <Filter>opencv_xfeatures2d\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_xfeatures2d">
+      <UniqueIdentifier>{203E940C-D29D-3953-88E7-4C06DC46F604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xfeatures2d\Include">
+      <UniqueIdentifier>{6678C719-B7E3-3EB4-B26E-415E72ACC762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_xfeatures2d\Src">
+      <UniqueIdentifier>{CE9A516B-9624-3B97-9A4E-A90C62DB7406}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\opencl\test_hogdetector.cpp">
+      <Filter>opencv_objdetect\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_aruco_utils.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_arucodetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_barcode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_boarddetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_cascadeandhog.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_charucodetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_face.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_main.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_qrcode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_qrcode_encode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_aruco_utils.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_precomp.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\test\test_qr_utils.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_objdetect">
+      <UniqueIdentifier>{0D1201FC-9966-30BF-BA66-97613CBE8467}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Include">
+      <UniqueIdentifier>{99856096-E9D8-39B6-B847-68D394B9B0E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Src">
+      <UniqueIdentifier>{59C755A4-FEDB-3024-8335-FA3BFFC4F9B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Src\opencl">
+      <UniqueIdentifier>{34F929BD-AC71-31FD-A3F7-23ED7C914172}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

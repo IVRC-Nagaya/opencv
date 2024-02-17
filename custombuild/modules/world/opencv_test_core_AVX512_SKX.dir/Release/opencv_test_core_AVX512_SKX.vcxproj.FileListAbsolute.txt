@@ -1,0 +1,1 @@
+C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_AVX512_SKX.dir\Release\opencv_test_core_AVX512_SKX.lib

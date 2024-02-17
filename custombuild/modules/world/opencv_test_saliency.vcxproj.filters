@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\saliency\test\test_main.cpp">
+      <Filter>opencv_saliency\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\saliency\test\test_static_saliency_spectral_residual.cpp">
+      <Filter>opencv_saliency\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\saliency\test\test_precomp.hpp">
+      <Filter>opencv_saliency\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_saliency">
+      <UniqueIdentifier>{0F511C1C-D51B-373C-95BA-B1C7567CFBA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_saliency\Include">
+      <UniqueIdentifier>{E71D9E42-AAA0-3755-A4B7-B1B6C9E67AA0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_saliency\Src">
+      <UniqueIdentifier>{A71DE622-9380-3082-8210-2C369706EE0B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

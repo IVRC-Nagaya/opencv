@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudastereo\perf\perf_main.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudastereo\perf\perf_stereo.cpp">
+      <Filter>opencv_cudastereo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\cudastereo\perf\perf_precomp.hpp">
+      <Filter>opencv_cudastereo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\sources\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudastereo">
+      <UniqueIdentifier>{F0DE00DF-8BB3-38C3-AA46-15B7C4B3B983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Include">
+      <UniqueIdentifier>{6DDF5DE8-B4DE-37B2-9B3F-B205D49CCC6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudastereo\Src">
+      <UniqueIdentifier>{F11B5CFA-43CC-39BD-B8CC-C597FCC73AD4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

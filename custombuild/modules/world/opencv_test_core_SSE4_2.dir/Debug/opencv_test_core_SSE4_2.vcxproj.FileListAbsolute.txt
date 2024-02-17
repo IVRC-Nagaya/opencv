@@ -1,0 +1,1 @@
+C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_SSE4_2.dir\Debug\opencv_test_core_SSE4_2.lib

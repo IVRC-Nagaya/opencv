@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_main.cpp">
+      <Filter>opencv_shape\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_shape.cpp">
+      <Filter>opencv_shape\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_precomp.hpp">
+      <Filter>opencv_shape\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_shape">
+      <UniqueIdentifier>{D2D78E9D-1FAE-381C-B033-D6668B105985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_shape\Include">
+      <UniqueIdentifier>{111DEF95-723A-3643-B19D-2CDFD54BB429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_shape\Src">
+      <UniqueIdentifier>{39439196-5B48-31CB-99F6-C518A4BF07DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
