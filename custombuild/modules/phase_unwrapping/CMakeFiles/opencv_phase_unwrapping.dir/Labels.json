@@ -1,0 +1,81 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping/phase_unwrapping.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/src/histogramphaseunwrapping.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/vs_version.rc"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/opencv_phase_unwrapping_main.cpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_phase_unwrapping",
+			"Module"
+		],
+		"name" : "opencv_phase_unwrapping"
+	}
+}

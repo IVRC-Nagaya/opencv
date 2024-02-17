@@ -1,0 +1,1 @@
+C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\imgproc\opencv_imgproc_AVX512_SKX.dir\Release\opencv_imgproc_AVX512_SKX.lib

@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/rgbd/CMakeFiles/opencv_perf_rgbd.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/rgbd/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/rgbd/perf/perf_tsdf.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/rgbd/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_rgbd",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/rgbd/CMakeFiles/opencv_perf_rgbd.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/rgbd/CMakeFiles/opencv_perf_rgbd.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_rgbd",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_rgbd"
+	}
+}

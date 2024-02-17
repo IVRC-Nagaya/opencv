@@ -1,0 +1,32 @@
+# Target labels
+ Extra
+ opencv_phase_unwrapping
+ Module
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping.hpp
+ Extra
+ opencv_phase_unwrapping
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp
+ Extra
+ opencv_phase_unwrapping
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/include/opencv2/phase_unwrapping/phase_unwrapping.hpp
+ Extra
+ opencv_phase_unwrapping
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/src/histogramphaseunwrapping.cpp
+ Extra
+ opencv_phase_unwrapping
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/src/precomp.hpp
+ Extra
+ opencv_phase_unwrapping
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/vs_version.rc
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/opencv_phase_unwrapping_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_phase_unwrapping.dir/Release/cmake_pch.hxx

@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_test_phase_unwrapping.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/test/test_unwrapping.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_phase_unwrapping",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_test_phase_unwrapping.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/phase_unwrapping/CMakeFiles/opencv_test_phase_unwrapping.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_phase_unwrapping",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_phase_unwrapping"
+	}
+}

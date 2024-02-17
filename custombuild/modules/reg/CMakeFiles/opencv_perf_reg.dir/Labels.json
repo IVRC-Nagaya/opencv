@@ -1,0 +1,51 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_perf_reg.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/perf/perf_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_reg",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/perf/perf_reg.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_reg",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/perf/perf_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_reg",
+				"PerfTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_perf_reg.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_perf_reg.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_reg",
+			"PerfTest"
+		],
+		"name" : "opencv_perf_reg"
+	}
+}

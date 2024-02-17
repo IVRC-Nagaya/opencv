@@ -1,0 +1,28 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_test_line_descriptor.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/test/test_descriptors_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/test/test_detector_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/test/test_main.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/test/test_matcher_regression.cpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/test/test_precomp.hpp
+ Extra
+ opencv_line_descriptor
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_test_line_descriptor.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_test_line_descriptor.dir/Release/cmake_pch.hxx

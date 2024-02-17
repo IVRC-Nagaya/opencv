@@ -1,0 +1,87 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/quality/CMakeFiles/opencv_test_quality.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_brisque.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_gmsd.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_mse.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_psnr.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_ssim.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_quality",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/quality/CMakeFiles/opencv_test_quality.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/quality/CMakeFiles/opencv_test_quality.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_quality",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_quality"
+	}
+}

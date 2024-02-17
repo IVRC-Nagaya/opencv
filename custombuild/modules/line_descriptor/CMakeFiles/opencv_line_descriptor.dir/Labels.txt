@@ -1,0 +1,52 @@
+# Target labels
+ Extra
+ opencv_line_descriptor
+ Module
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/include/opencv2/line_descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/include/opencv2/line_descriptor/descriptor.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/LSDDetector.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/binary_descriptor.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/binary_descriptor_matcher.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/draw.cpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/bitarray.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/bitops.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/precomp.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/src/types.hpp
+ Extra
+ opencv_line_descriptor
+ Module
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/vs_version.rc
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/opencv_line_descriptor_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/line_descriptor/CMakeFiles/opencv_line_descriptor.dir/Release/cmake_pch.hxx

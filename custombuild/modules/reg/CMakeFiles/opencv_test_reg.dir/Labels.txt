@@ -1,0 +1,20 @@
+# Target labels
+ Extra
+ opencv_reg
+ AccuracyTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_test_reg.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/test/test_main.cpp
+ Extra
+ opencv_reg
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/test/test_reg.cpp
+ Extra
+ opencv_reg
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/test/test_precomp.hpp
+ Extra
+ opencv_reg
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_test_reg.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/reg/CMakeFiles/opencv_test_reg.dir/Release/cmake_pch.hxx

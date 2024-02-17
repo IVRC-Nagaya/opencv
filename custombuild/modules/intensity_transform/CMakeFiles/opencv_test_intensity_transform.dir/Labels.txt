@@ -1,0 +1,20 @@
+# Target labels
+ Extra
+ opencv_intensity_transform
+ AccuracyTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/intensity_transform/CMakeFiles/opencv_test_intensity_transform.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/intensity_transform/test/test_intensity_transform.cpp
+ Extra
+ opencv_intensity_transform
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/intensity_transform/test/test_main.cpp
+ Extra
+ opencv_intensity_transform
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/intensity_transform/test/test_precomp.hpp
+ Extra
+ opencv_intensity_transform
+ AccuracyTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/intensity_transform/CMakeFiles/opencv_test_intensity_transform.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/intensity_transform/CMakeFiles/opencv_test_intensity_transform.dir/Release/cmake_pch.hxx
