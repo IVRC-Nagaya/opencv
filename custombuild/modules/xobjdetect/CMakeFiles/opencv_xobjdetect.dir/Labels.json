@@ -1,0 +1,135 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/include/opencv2/xobjdetect.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/feature_evaluator.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/lbpfeatures.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/waldboost.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/wbdetector.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/cascadeclassifier.h",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/feature_evaluator.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/lbpfeatures.h",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/waldboost.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/src/wbdetector.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xobjdetect",
+				"Module"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xobjdetect/vs_version.rc"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xobjdetect/opencv_xobjdetect_main.cpp"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xobjdetect/CMakeFiles/opencv_xobjdetect.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xobjdetect",
+			"Module"
+		],
+		"name" : "opencv_xobjdetect"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_test_xphoto.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/dct_image_denoising.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/simple_color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_denoise_bm3d.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_grayworld.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_hdr.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_inpainting.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_learning_based_color_balance.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_oil_painting.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_xphoto",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_test_xphoto.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_test_xphoto.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_xphoto",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_xphoto"
+	}
+}

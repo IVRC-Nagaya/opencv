@@ -1,0 +1,24 @@
+# Target labels
+ Extra
+ opencv_xphoto
+ PerfTest
+# Source files and their labels
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_perf_xphoto.dir/cmake_pch.cxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/perf/perf_grayworld.cpp
+ Extra
+ opencv_xphoto
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/perf/perf_learning_based_color_balance.cpp
+ Extra
+ opencv_xphoto
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/perf/perf_main.cpp
+ Extra
+ opencv_xphoto
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/perf/perf_precomp.hpp
+ Extra
+ opencv_xphoto
+ PerfTest
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_perf_xphoto.dir/Debug/cmake_pch.hxx
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/xphoto/CMakeFiles/opencv_perf_xphoto.dir/Release/cmake_pch.hxx
