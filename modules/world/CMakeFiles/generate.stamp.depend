@@ -1,0 +1,65 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindIconv.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/vs_version.rc.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/calib3d/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/core/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/dnn/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/dnn/cmake/hooks/INIT_MODULE_SOURCES_opencv_dnn.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/dnn/cmake/plugin.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/features2d/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/flann/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/gapi/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/highgui/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/highgui/cmake/plugin.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/imgcodecs/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/imgproc/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/ml/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/objdetect/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/photo/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/stitching/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/video/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/plugin.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/world/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bgsegm/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bioinspired/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/ccalib/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/datasets/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_objdetect/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dpm/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/face/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/fuzzy/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/hfs/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/intensity_transform/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/line_descriptor/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/mcc/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/optflow/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/phase_unwrapping/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/plot/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/rapid/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/reg/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/rgbd/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/saliency/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/shape/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/structured_light/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/superres/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/surface_matching/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/text_config.hpp.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/tracking/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/videostab/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/wechat_qrcode/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/cmake/download_boostdesc.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/cmake/download_vgg.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/ximgproc/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xphoto/CMakeLists.txt

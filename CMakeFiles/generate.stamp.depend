@@ -1,0 +1,125 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeFindJavaCommon.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindJNI.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindJava.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPythonInterp.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/TestBigEndian.cmake
+C:/Program Files/CMake/share/cmake-3.28/Templates/CPackConfig.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/3rdparty/ffmpeg/ffmpeg_version.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/CMakeFiles/3.28.3/CMakeSystem.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/3rdparty/ffmpeg/ffmpeg.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/3rdparty/ippicv/ippicv.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/CMakeLists.txt
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVCRTLinkage.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVCompilerOptimizations.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVCompilerOptions.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectApacheAnt.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectCXXCompiler.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectDirectML.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectDirectX.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectFlatbuffers.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectOpenCL.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectPython.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectTrace.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDetectVTK.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVDownload.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVExtraTargets.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindFrameworks.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindIPP.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindIPPIW.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindLAPACK.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindLibsGUI.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindLibsGrfmt.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindLibsPerf.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindLibsVideo.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindMKL.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindOpenBLAS.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindOpenEXR.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVFindProtobuf.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVGenABI.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVGenAndroidMK.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVGenConfig.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVGenHeaders.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVGenSetupVars.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVInstallLayout.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVMinDepVersions.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVModule.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVPCHSupport.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVPackaging.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVUtils.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/OpenCVVersion.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/checks/directml.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/checks/directx.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/checks/opencl.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/checks/win32uitest.cpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/platforms/OpenCV-Windows.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/OpenCVConfig-version.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/OpenCVConfig.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/OpenCVConfig.root-WIN32.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/cmake_uninstall.cmake.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/custom_hal.hpp.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/cv_cpu_config.h.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/cvconfig.h.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/opencv_modules.hpp.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/templates/setup_vars_win32.cmd.in
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/cmake/vars/EnableModeVars.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/core/include/opencv2/core/version.hpp
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/dnn/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/gapi/cmake/DownloadADE.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/gapi/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/highgui/cmake/detect_win32ui.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/highgui/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_dc1394.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_dshow.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_ffmpeg.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_gstreamer.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_msmf.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/detect_obsensor.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/sources/modules/videoio/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/julia/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/matlab/cmake/init.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/cmake/FindTesseract.cmake
+C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/text/cmake/init.cmake
