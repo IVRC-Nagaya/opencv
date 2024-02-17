@@ -1,0 +1,60 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/bgsegm/CMakeFiles/opencv_test_bgsegm.dir/cmake_pch.cxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bgsegm/test/test_backgroundsubtractor_gbh.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bgsegm/test/test_backgroundsubtractor_lsbp.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bgsegm/test/test_main.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/bgsegm/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_bgsegm",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/bgsegm/CMakeFiles/opencv_test_bgsegm.dir/Debug/cmake_pch.hxx"
+		},
+		{
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/bgsegm/CMakeFiles/opencv_test_bgsegm.dir/Release/cmake_pch.hxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_bgsegm",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_bgsegm"
+	}
+}

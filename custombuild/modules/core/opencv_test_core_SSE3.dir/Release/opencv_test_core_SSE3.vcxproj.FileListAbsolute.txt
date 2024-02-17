@@ -1,0 +1,1 @@
+C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\core\opencv_test_core_SSE3.dir\Release\opencv_test_core_SSE3.lib

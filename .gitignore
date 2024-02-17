@@ -25,3 +25,7 @@ build
 node_modules
 CMakeSettings.json
 xcuserdata/
+
+
+custombuild/modules/core/opencv_test_core.dir/Debug/opencv_test_cored.ilk
+custombuild/modules/world/opencv_test_core.dir/Debug/opencv_test_cored.ilk
