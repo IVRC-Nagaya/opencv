@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{453C8027-34C1-3905-A27F-D1F8FB236C7B}</ProjectGuid>
+    <ProjectGuid>{F1F31B81-82FC-38B1-9970-23F3DC0896E4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -41,18 +41,18 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">libopenjp2.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">libopenjp2d</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">libopenjp2.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">libopenjp2</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
@@ -72,15 +72,15 @@
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;OPJ_STATIC;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;MUTEX_win32;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Debug\libopenjp2d.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Debug\libopenjp2d.pdb</ProgramDataBaseFileName>
       <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;OPJ_STATIC;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;MUTEX_win32;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -93,7 +93,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DisableSpecificWarnings>4819</DisableSpecificWarnings>
@@ -113,15 +113,15 @@
       <ObjectFileName>$(IntDir)</ObjectFileName>
       <DebugInformationFormat>
       </DebugInformationFormat>
-      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Release\libopenjp2.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Release\libopenjp2.pdb</ProgramDataBaseFileName>
       <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;OPJ_STATIC;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;MUTEX_win32;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -133,11 +133,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/openjpeg/openjp2/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/openjpeg/openjp2/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/3rdparty/openjpeg/openjp2/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/3rdparty/openjpeg/openjp2/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -146,11 +146,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindThreads.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/openjpeg/openjp2/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/openjpeg/openjp2/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/3rdparty/openjpeg/openjp2/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/3rdparty/openjpeg/openjp2/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -159,37 +159,37 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckIncludeFile.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckLibraryExists.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindThreads.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\thread.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\bio.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\cio.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\dwt.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\event.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\ht_dec.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\image.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\invert.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\j2k.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\jp2.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\mct.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\mqc.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\openjpeg.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\opj_clock.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\pi.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\t1.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\t2.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\tcd.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\tgt.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\function_list.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\opj_malloc.c" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\sparse_array.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\thread.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\bio.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\cio.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\dwt.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\event.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\ht_dec.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\image.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\invert.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\j2k.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\jp2.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\mct.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\mqc.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\openjpeg.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\opj_clock.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\pi.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\t1.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\t2.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\tcd.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\tgt.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\function_list.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\opj_malloc.c" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\sparse_array.c" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\ZERO_CHECK.vcxproj">
-      <Project>{B30505A9-4318-3CEF-899F-A96B45C57772}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\ZERO_CHECK.vcxproj">
+      <Project>{CC76AE6C-1B63-3148-8ED8-CA5EEFCBE011}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

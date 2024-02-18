@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\perf\perf_jpeg.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\perf\perf_jpeg.cpp">
       <Filter>opencv_imgcodecs\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\perf\perf_main.cpp">
       <Filter>opencv_imgcodecs\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\perf\perf_png.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\perf\perf_png.cpp">
       <Filter>opencv_imgcodecs\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\perf\perf_precomp.hpp">
       <Filter>opencv_imgcodecs\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_imgcodecs">
-      <UniqueIdentifier>{49E29B8C-C9D6-3AA3-9FFA-D587E8C6F7EC}</UniqueIdentifier>
+      <UniqueIdentifier>{5EE8A6BD-D3F3-3F98-AF42-22A57F5B7D50}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgcodecs\Include">
-      <UniqueIdentifier>{8BC7035B-BF1D-37BF-87D2-13009B5FE164}</UniqueIdentifier>
+      <UniqueIdentifier>{6FBC503A-CF1D-3044-AD8D-28C7F8F8FFB6}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgcodecs\Src">
-      <UniqueIdentifier>{C61F2047-9A79-37B7-B6A1-D67C6CD6D027}</UniqueIdentifier>
+      <UniqueIdentifier>{D8AD9CB4-24A7-3E95-8462-DFDD38FB3484}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

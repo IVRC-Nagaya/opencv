@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_brisque.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_brisque.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_gmsd.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_gmsd.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_main.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_mse.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_mse.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_psnr.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_psnr.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_ssim.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_ssim.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/quality/test/test_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/quality/test/test_precomp.hpp",
 			"labels" : 
 			[
 				"Extra",

@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FD5AEF1E-8E5A-330A-B0A4-0C59F12823DE}</ProjectGuid>
+    <ProjectGuid>{70ED1CC0-740E-3191-A7BA-58721811E5B5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -41,13 +41,13 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">opencv_version.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">opencv_versiond</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_version.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_version</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
@@ -56,7 +56,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
@@ -80,10 +80,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;__OPENCV_BUILD=1;__OPENCV_APPS=1;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -96,8 +96,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Debug/opencv_versiond.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Debug/opencv_versiond.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Debug/opencv_versiond.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Debug/opencv_versiond.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -106,7 +106,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DisableSpecificWarnings>4127;4251;4324;4275;4512;4589;4819</DisableSpecificWarnings>
@@ -130,10 +130,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;__OPENCV_BUILD=1;__OPENCV_APPS=1;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\PRIVATE;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -146,8 +146,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Release/opencv_version.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Release/opencv_version.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Release/opencv_version.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Release/opencv_version.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -155,11 +155,11 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/apps/version/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/apps/version/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/version/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/version/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -168,11 +168,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\apps\version\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\apps\version\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/apps/version/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/apps/version/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/version/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/version/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -181,26 +181,26 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\apps\version\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\apps\version\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\apps\version\opencv_version.cpp" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\apps\version\opencv_version.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\ZERO_CHECK.vcxproj">
-      <Project>{B30505A9-4318-3CEF-899F-A96B45C57772}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\ZERO_CHECK.vcxproj">
+      <Project>{CC76AE6C-1B63-3148-8ED8-CA5EEFCBE011}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippiw\ippiw.vcxproj">
-      <Project>{44002EEF-B622-3842-A711-76D60C5529A5}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippiw\ippiw.vcxproj">
+      <Project>{7E317507-81D8-3B57-B851-0ECBB7A3D933}</Project>
       <Name>ippiw</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world.vcxproj">
-      <Project>{52B92B05-7C59-3F2B-AC4F-677305377A31}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world.vcxproj">
+      <Project>{917C8457-3890-342A-9B6B-86CE35AB39B6}</Project>
       <Name>opencv_world</Name>
     </ProjectReference>
   </ItemGroup>

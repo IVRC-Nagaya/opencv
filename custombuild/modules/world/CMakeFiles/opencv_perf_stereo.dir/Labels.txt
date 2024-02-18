@@ -3,19 +3,19 @@
  opencv_stereo
  PerfTest
 # Source files and their labels
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/perf/perf_bm.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/stereo/perf/perf_bm.cpp
  Extra
  opencv_stereo
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/perf/perf_descriptor.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/stereo/perf/perf_descriptor.cpp
  Extra
  opencv_stereo
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/perf/perf_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/stereo/perf/perf_main.cpp
  Extra
  opencv_stereo
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/stereo/perf/perf_precomp.hpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/stereo/perf/perf_precomp.hpp
  Extra
  opencv_stereo
  PerfTest

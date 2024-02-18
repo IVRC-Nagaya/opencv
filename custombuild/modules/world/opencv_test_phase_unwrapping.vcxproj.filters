@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\phase_unwrapping\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\phase_unwrapping\test\test_main.cpp">
       <Filter>opencv_phase_unwrapping\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\phase_unwrapping\test\test_unwrapping.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\phase_unwrapping\test\test_unwrapping.cpp">
       <Filter>opencv_phase_unwrapping\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\phase_unwrapping\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\phase_unwrapping\test\test_precomp.hpp">
       <Filter>opencv_phase_unwrapping\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_phase_unwrapping">
-      <UniqueIdentifier>{504316E9-C414-3AEF-B2F2-75C7203617C3}</UniqueIdentifier>
+      <UniqueIdentifier>{4A12A3E6-10FE-3543-B93B-BC9B9BA4389A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_phase_unwrapping\Include">
-      <UniqueIdentifier>{85342DF4-D648-3CB1-9EE4-9C0643488A10}</UniqueIdentifier>
+      <UniqueIdentifier>{FAD1A328-1EA1-3B4C-9C5C-6BA1BB142F3E}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_phase_unwrapping\Src">
-      <UniqueIdentifier>{99901049-BA16-3D77-8716-380DF0BAAAE8}</UniqueIdentifier>
+      <UniqueIdentifier>{AC125670-F43F-3DAF-8110-B2B4AA20CE57}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

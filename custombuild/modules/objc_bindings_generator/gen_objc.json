@@ -1,5 +1,5 @@
 {
-  "rootdir": "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv",
+  "rootdir": "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv",
   
   "modules": [
     { "name": "core", "location": "modules/core" },

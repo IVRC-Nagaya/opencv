@@ -23,18 +23,18 @@ set(ENABLE_NOISY_WARNINGS "OFF")
 
 set(CMAKE_MODULE_LINKER_FLAGS "/machine:x64 ")
 
-set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install")
+set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install")
 
 set(OPENCV_PYTHON_INSTALL_PATH "")
 
-set(OpenCV_SOURCE_DIR "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv")
+set(OpenCV_SOURCE_DIR "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv")
 
 set(OPENCV_FORCE_PYTHON_LIBS "")
 
 set(OPENCV_PYTHON_SKIP_LINKER_EXCLUDE_LIBS "")
 
-set(OPENCV_PYTHON_BINDINGS_DIR "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator")
+set(OPENCV_PYTHON_BINDINGS_DIR "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator")
 
-set(cv2_custom_hdr "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_custom_headers.h")
+set(cv2_custom_hdr "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_custom_headers.h")
 
-set(cv2_generated_files "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_enums.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_funcs.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_include.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_modules.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_modules_content.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_types.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_types_content.h;C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/python_bindings_generator/pyopencv_signatures.json")
+set(cv2_generated_files "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_enums.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_funcs.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_include.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_modules.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_modules_content.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_types.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_generated_types_content.h;C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/python_bindings_generator/pyopencv_signatures.json")

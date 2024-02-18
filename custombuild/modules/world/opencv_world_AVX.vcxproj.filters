@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\mathfuncs_core.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\mathfuncs_core.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\src\corner.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\src\corner.avx.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\accum.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\accum.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\layers\layers_common.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\layers\layers_common.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\layers\cpu_kernels\conv_block.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\layers\cpu_kernels\conv_block.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\layers\cpu_kernels\conv_depthwise.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\layers\cpu_kernels\conv_depthwise.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\layers\cpu_kernels\conv_winograd_f63.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\layers\cpu_kernels\conv_winograd_f63.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\layers\cpu_kernels\fast_gemm_kernels.avx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\layers\cpu_kernels\fast_gemm_kernels.avx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+      <UniqueIdentifier>{F72FD43B-10C7-32E7-B229-FA128CC92BE9}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgproc">
-      <UniqueIdentifier>{1E5E0DFF-0531-3912-A2BB-D09A61DD4460}</UniqueIdentifier>
+      <UniqueIdentifier>{DA067388-2235-3D4A-AA43-37E3680BA042}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgproc\Src">
-      <UniqueIdentifier>{D9EA5784-791B-3ED7-A9C4-9582169B071B}</UniqueIdentifier>
+      <UniqueIdentifier>{0BBB597B-B262-3B0F-AA50-3C12C64C46F5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

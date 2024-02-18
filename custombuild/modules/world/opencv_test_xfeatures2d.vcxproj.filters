@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_detectors.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_detectors.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_features2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_features2d.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_gms_matcher.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_gms_matcher.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_keypoints.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_keypoints.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_logos_matcher.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_logos_matcher.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_main.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_rotation_and_scale_invariance.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_rotation_and_scale_invariance.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_surf.cuda.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_surf.cuda.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_surf.ocl.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_surf.ocl.cpp">
       <Filter>opencv_xfeatures2d\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\test\test_precomp.hpp">
       <Filter>opencv_xfeatures2d\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_xfeatures2d">
-      <UniqueIdentifier>{203E940C-D29D-3953-88E7-4C06DC46F604}</UniqueIdentifier>
+      <UniqueIdentifier>{74E6CEA6-671C-3855-ABFD-B0EAB3B8C4A5}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_xfeatures2d\Include">
-      <UniqueIdentifier>{6678C719-B7E3-3EB4-B26E-415E72ACC762}</UniqueIdentifier>
+      <UniqueIdentifier>{15D62C8F-C5CF-3653-8E16-DBB816B20F4F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_xfeatures2d\Src">
-      <UniqueIdentifier>{CE9A516B-9624-3B97-9A4E-A90C62DB7406}</UniqueIdentifier>
+      <UniqueIdentifier>{7507E762-9437-3613-B679-D27344369E61}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

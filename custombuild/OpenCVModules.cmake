@@ -59,29 +59,29 @@ set_target_properties(opencv_img_hash PROPERTIES
 # Import target "opencv_world" for configuration "Debug"
 set_property(TARGET opencv_world APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(opencv_world PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Debug/opencv_world490d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Debug/opencv_world490d.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Debug/opencv_world490d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Debug/opencv_world490d.dll"
   )
 
 # Import target "opencv_img_hash" for configuration "Debug"
 set_property(TARGET opencv_img_hash APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(opencv_img_hash PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Debug/opencv_img_hash490d.lib"
-  IMPORTED_LOCATION_DEBUG "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Debug/opencv_img_hash490d.dll"
+  IMPORTED_IMPLIB_DEBUG "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Debug/opencv_img_hash490d.lib"
+  IMPORTED_LOCATION_DEBUG "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Debug/opencv_img_hash490d.dll"
   )
 
 # Import target "opencv_world" for configuration "Release"
 set_property(TARGET opencv_world APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_world PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Release/opencv_world490.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Release/opencv_world490.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Release/opencv_world490.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Release/opencv_world490.dll"
   )
 
 # Import target "opencv_img_hash" for configuration "Release"
 set_property(TARGET opencv_img_hash APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(opencv_img_hash PROPERTIES
-  IMPORTED_IMPLIB_RELEASE "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/lib/Release/opencv_img_hash490.lib"
-  IMPORTED_LOCATION_RELEASE "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/bin/Release/opencv_img_hash490.dll"
+  IMPORTED_IMPLIB_RELEASE "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/lib/Release/opencv_img_hash490.lib"
+  IMPORTED_LOCATION_RELEASE "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/bin/Release/opencv_img_hash490.dll"
   )
 
 # This file does not depend on other imported targets which have

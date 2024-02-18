@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_jpeg.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_jpeg.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_main.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_png.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_png.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_precomp.hpp",
 			"labels" : 
 			[
 				"Main",

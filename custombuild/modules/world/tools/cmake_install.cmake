@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xobjdetect/tools
+# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xobjdetect/tools
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/world/tools/waldboost_detector/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/world/tools/waldboost_detector/cmake_install.cmake")
 
 endif()
 

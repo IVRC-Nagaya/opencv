@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\superres\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\superres\perf\perf_main.cpp">
       <Filter>opencv_superres\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\superres\perf\perf_superres.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\superres\perf\perf_superres.cpp">
       <Filter>opencv_superres\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\superres\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\superres\perf\perf_precomp.hpp">
       <Filter>opencv_superres\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_superres">
-      <UniqueIdentifier>{C99ECC6A-3F37-3F86-983D-DA405A9AC8B1}</UniqueIdentifier>
+      <UniqueIdentifier>{25B3FB47-C4D1-32BE-8229-24E3A9A03D0F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_superres\Include">
-      <UniqueIdentifier>{3C54F599-E316-3462-B51B-C9DCB2EDF4C3}</UniqueIdentifier>
+      <UniqueIdentifier>{2B4EF617-D17A-35CE-BC00-E127EA208F4A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_superres\Src">
-      <UniqueIdentifier>{40176C9E-F04B-3850-A9BD-E5F2E1600BF0}</UniqueIdentifier>
+      <UniqueIdentifier>{BF433084-A2FD-35D5-BD71-8A4AE51DAF86}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

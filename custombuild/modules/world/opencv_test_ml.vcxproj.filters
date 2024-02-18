@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_ann.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_ann.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_bayes.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_bayes.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_em.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_em.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_kmeans.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_kmeans.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_knearest.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_knearest.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_lr.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_lr.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_main.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_mltests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_mltests.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_rtrees.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_rtrees.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_save_load.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_save_load.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_svmsgd.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_svmsgd.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_svmtrainauto.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_svmtrainauto.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_utils.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_utils.cpp">
       <Filter>opencv_ml\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\test\test_precomp.hpp">
       <Filter>opencv_ml\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_ml">
-      <UniqueIdentifier>{84B1ACB2-E4AC-3B13-8BEF-5D23C77A85C0}</UniqueIdentifier>
+      <UniqueIdentifier>{AD976449-4E7E-3D4C-BCD8-6F01E746C75E}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_ml\Include">
-      <UniqueIdentifier>{5D24F537-10BE-3C10-9B16-BC42333A6778}</UniqueIdentifier>
+      <UniqueIdentifier>{56330171-2E36-3B53-BF7C-A7AE12D40327}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_ml\Src">
-      <UniqueIdentifier>{421264EA-E720-3C04-B854-06D424B2F198}</UniqueIdentifier>
+      <UniqueIdentifier>{DABFA60B-79B0-3657-9530-99DED5B1DE7F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

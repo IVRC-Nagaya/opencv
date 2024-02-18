@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rapid\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rapid\test\test_main.cpp">
       <Filter>opencv_rapid\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rapid\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rapid\test\test_precomp.hpp">
       <Filter>opencv_rapid\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_rapid">
-      <UniqueIdentifier>{7AE65188-2312-3D01-B917-420EFCE8CEF2}</UniqueIdentifier>
+      <UniqueIdentifier>{082E5766-3562-3326-B326-CB30B499F2DC}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_rapid\Include">
-      <UniqueIdentifier>{9EC082A9-0262-32CF-864A-FF6FE9818AE9}</UniqueIdentifier>
+      <UniqueIdentifier>{0388E3C5-5C60-349D-AEFE-9D62F26315E1}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_rapid\Src">
-      <UniqueIdentifier>{77C2C782-D19F-3E17-847E-B373795AB3B3}</UniqueIdentifier>
+      <UniqueIdentifier>{98D62787-5900-3385-A059-C7BC618FFC1D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

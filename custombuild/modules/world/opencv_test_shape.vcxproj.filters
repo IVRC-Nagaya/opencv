@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\shape\test\test_main.cpp">
       <Filter>opencv_shape\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_shape.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\shape\test\test_shape.cpp">
       <Filter>opencv_shape\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\shape\test\test_precomp.hpp">
       <Filter>opencv_shape\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_shape">
-      <UniqueIdentifier>{D2D78E9D-1FAE-381C-B033-D6668B105985}</UniqueIdentifier>
+      <UniqueIdentifier>{9E92375C-3831-302E-B709-D0AC65FF4275}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_shape\Include">
-      <UniqueIdentifier>{111DEF95-723A-3643-B19D-2CDFD54BB429}</UniqueIdentifier>
+      <UniqueIdentifier>{4B22BB24-CFD0-305B-A24E-0FC9D6B9EF3D}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_shape\Src">
-      <UniqueIdentifier>{39439196-5B48-31CB-99F6-C518A4BF07DD}</UniqueIdentifier>
+      <UniqueIdentifier>{E1A45A40-FC12-3377-AF84-30D7B16E7923}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

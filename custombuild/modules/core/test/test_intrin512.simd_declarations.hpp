@@ -1,4 +1,4 @@
-#define CV_CPU_SIMD_FILENAME "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/core/test/test_intrin512.simd.hpp"
+#define CV_CPU_SIMD_FILENAME "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/core/test/test_intrin512.simd.hpp"
 #define CV_CPU_DISPATCH_MODE AVX512_SKX
 #include "opencv2/core/private/cv_cpu_include_simd_declarations.hpp"
 

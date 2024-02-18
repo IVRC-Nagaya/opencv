@@ -1,1 +1,2 @@
 C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_AVX512_SKX.dir\Release\opencv_world_AVX512_SKX.lib
+C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_AVX512_SKX.dir\Release\opencv_world_AVX512_SKX.lib

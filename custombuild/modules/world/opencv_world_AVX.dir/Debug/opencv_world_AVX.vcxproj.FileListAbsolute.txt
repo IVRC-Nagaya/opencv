@@ -1,1 +1,2 @@
 C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_AVX.dir\Debug\opencv_world_AVX.lib
+C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_AVX.dir\Debug\opencv_world_AVX.lib

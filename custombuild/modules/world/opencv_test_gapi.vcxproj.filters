@@ -1,414 +1,414 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_compoundkernel_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_compoundkernel_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_core_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_core_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_imgproc_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_imgproc_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_operators_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_operators_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_render_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_render_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_stereo_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_stereo_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_video_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_video_tests.cpp">
       <Filter>opencv_gapi\Src\common</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_core_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_core_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_core_tests_fluid.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_core_tests_fluid.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_imgproc_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_imgproc_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_imgproc_tests_fluid.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_imgproc_tests_fluid.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_ocv_stateful_kernel_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_ocv_stateful_kernel_tests.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_operators_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_operators_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_operators_tests_fluid.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_operators_tests_fluid.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_ot_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_ot_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_stereo_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_stereo_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_video_tests_cpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_video_tests_cpu.cpp">
       <Filter>opencv_gapi\Src\cpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\executor\gtbbexecutor_internal_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\executor\gtbbexecutor_internal_tests.cpp">
       <Filter>opencv_gapi\Src\executor</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_array_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_array_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_async_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_async_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_basic_hetero_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_basic_hetero_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_compile_args_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_compile_args_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_desc_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_desc_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_parallel_rois_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_parallel_rois_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_resize_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_resize_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_roi_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_roi_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_test_kernels.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_test_kernels.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_frame_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_frame_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_gcompiled_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_gcompiled_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_gcomputation_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_gcomputation_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_gpu_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_gpu_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_graph_meta_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_graph_meta_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_kernel_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_kernel_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_opaque_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_opaque_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_plaidml_pipelines.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_plaidml_pipelines.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_planar_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_planar_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_sample_pipelines.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_sample_pipelines.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_scalar_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_scalar_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_smoke_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_smoke_test.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_transform_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_transform_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_typed_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_typed_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_util_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_util_tests.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gpu\gapi_core_tests_gpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gpu\gapi_core_tests_gpu.cpp">
       <Filter>opencv_gapi\Src\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gpu\gapi_imgproc_tests_gpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gpu\gapi_imgproc_tests_gpu.cpp">
       <Filter>opencv_gapi\Src\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gpu\gapi_operators_tests_gpu.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gpu\gapi_operators_tests_gpu.cpp">
       <Filter>opencv_gapi\Src\gpu</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\infer\gapi_infer_ie_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\infer\gapi_infer_ie_test.cpp">
       <Filter>opencv_gapi\Src\infer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\infer\gapi_infer_onnx_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\infer\gapi_infer_onnx_test.cpp">
       <Filter>opencv_gapi\Src\infer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\infer\gapi_infer_ov_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\infer\gapi_infer_ov_tests.cpp">
       <Filter>opencv_gapi\Src\infer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\infer\gapi_infer_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\infer\gapi_infer_tests.cpp">
       <Filter>opencv_gapi\Src\infer</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_backend_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_backend_tests.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_dynamic_graph.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_dynamic_graph.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_executor_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_executor_tests.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_garg_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_garg_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_gmetaarg_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_gmetaarg_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_gmodel_builder_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_gmodel_builder_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_island_fusion_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_island_fusion_tests.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_island_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_island_tests.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_pattern_matching_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_pattern_matching_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_perform_substitution_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_perform_substitution_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_proto_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_proto_tests.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_recompilation_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_recompilation_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_int_vectorref_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_int_vectorref_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\internal\gapi_transactions_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\internal\gapi_transactions_test.cpp">
       <Filter>opencv_gapi\Src\internal</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\oak\gapi_tests_oak.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\oak\gapi_tests_oak.cpp">
       <Filter>opencv_gapi\Src\oak</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\own\conc_queue_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\own\conc_queue_tests.cpp">
       <Filter>opencv_gapi\Src\own</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\own\gapi_types_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\own\gapi_types_tests.cpp">
       <Filter>opencv_gapi\Src\own</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\own\last_written_value_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\own\last_written_value_tests.cpp">
       <Filter>opencv_gapi\Src\own</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\own\mat_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\own\mat_tests.cpp">
       <Filter>opencv_gapi\Src\own</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\own\scalar_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\own\scalar_tests.cpp">
       <Filter>opencv_gapi\Src\own</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\render\ftp_render_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\render\ftp_render_test.cpp">
       <Filter>opencv_gapi\Src\render</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\render\gapi_render_tests_ocv.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\render\gapi_render_tests_ocv.cpp">
       <Filter>opencv_gapi\Src\render</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\rmat\rmat_integration_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\rmat\rmat_integration_tests.cpp">
       <Filter>opencv_gapi\Src\rmat</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\rmat\rmat_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\rmat\rmat_tests.cpp">
       <Filter>opencv_gapi\Src\rmat</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\rmat\rmat_view_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\rmat\rmat_view_tests.cpp">
       <Filter>opencv_gapi\Src\rmat</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\s11n\gapi_s11n_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\s11n\gapi_s11n_tests.cpp">
       <Filter>opencv_gapi\Src\s11n</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\s11n\gapi_sample_pipelines_s11n.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\s11n\gapi_sample_pipelines_s11n.cpp">
       <Filter>opencv_gapi\Src\s11n</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_gstreamer_pipeline_facade_int_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_gstreamer_pipeline_facade_int_tests.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_gstreamersource_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_gstreamersource_tests.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_queue_source_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_queue_source_tests.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_sync_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_sync_tests.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_tests.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_utils_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_utils_test.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_core_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_core_test.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_data_provider.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_data_provider.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_device_selector.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_vpl_device_selector.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\streaming\gapi_streaming_vpp_preproc_test.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\streaming\gapi_streaming_vpp_preproc_test.cpp">
       <Filter>opencv_gapi\Src\streaming</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\test_main.cpp">
       <Filter>opencv_gapi\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\util\any_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\util\any_tests.cpp">
       <Filter>opencv_gapi\Src\util</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\util\optional_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\util\optional_tests.cpp">
       <Filter>opencv_gapi\Src\util</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\util\variant_tests.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\util\variant_tests.cpp">
       <Filter>opencv_gapi\Src\util</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_core_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_core_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_core_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_core_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_core_tests_inl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_core_tests_inl.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_imgproc_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_imgproc_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_imgproc_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_imgproc_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_imgproc_tests_inl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_imgproc_tests_inl.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_operators_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_operators_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_operators_tests_inl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_operators_tests_inl.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_parsers_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_parsers_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_render_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_render_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_stereo_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_stereo_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_stereo_tests_inl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_stereo_tests_inl.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_streaming_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_streaming_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_tests_helpers.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_tests_helpers.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_video_tests.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_video_tests.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_video_tests_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_video_tests_common.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\common\gapi_video_tests_inl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\common\gapi_video_tests_inl.hpp">
       <Filter>opencv_gapi\Include\common</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\cpu\gapi_ocv_stateful_kernel_test_utils.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\cpu\gapi_ocv_stateful_kernel_test_utils.hpp">
       <Filter>opencv_gapi\Include\cpu</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_fluid_test_kernels.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_fluid_test_kernels.hpp">
       <Filter>opencv_gapi\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\gapi_mock_kernels.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\gapi_mock_kernels.hpp">
       <Filter>opencv_gapi\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\opencl_kernels_test_gapi.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\opencl_kernels_test_gapi.hpp">
       <Filter>opencv_gapi\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\rmat\rmat_test_common.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\rmat\rmat_test_common.hpp">
       <Filter>opencv_gapi\Include\rmat</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\test\test_precomp.hpp">
       <Filter>opencv_gapi\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_gapi">
-      <UniqueIdentifier>{E062F71E-9671-358D-ADDF-53EA13DAE4CB}</UniqueIdentifier>
+      <UniqueIdentifier>{961B9BB1-050D-350F-B1BB-91A4E4085725}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Include">
-      <UniqueIdentifier>{D426B377-515D-3EA6-9C4D-A7AF56712FB4}</UniqueIdentifier>
+      <UniqueIdentifier>{C9C2546E-65AD-3099-845C-8A6D8B3E4830}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Include\common">
-      <UniqueIdentifier>{BB1461FA-578A-3122-B7B9-CD812F0EC9DA}</UniqueIdentifier>
+      <UniqueIdentifier>{2198E825-5F7A-3A19-AA1C-E03F15FA956F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Include\cpu">
-      <UniqueIdentifier>{F938D146-384C-34D5-98E8-54965CAB850E}</UniqueIdentifier>
+      <UniqueIdentifier>{1B185981-3212-3540-8C7A-617AFE2B3424}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Include\rmat">
-      <UniqueIdentifier>{9ACB77E1-170C-358F-800B-3E57D5CDA0CE}</UniqueIdentifier>
+      <UniqueIdentifier>{B811711A-E893-3529-8C93-C53B1B3BAD86}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src">
-      <UniqueIdentifier>{E26C4459-DE95-3A75-8E90-1954BA207C05}</UniqueIdentifier>
+      <UniqueIdentifier>{85B878C8-C0C3-35B5-8894-0EFC6B6F44CB}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\common">
-      <UniqueIdentifier>{0F9DAFCB-42DB-308B-A185-6A1FECCC85E4}</UniqueIdentifier>
+      <UniqueIdentifier>{240C4A18-DD5E-3AEA-BF74-7E61D578F60B}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\cpu">
-      <UniqueIdentifier>{46CBD626-6555-3654-AEB4-E7F752EB0275}</UniqueIdentifier>
+      <UniqueIdentifier>{CE1A2D6B-4B28-32C6-8DD8-E46C655EF0A9}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\executor">
-      <UniqueIdentifier>{8832E417-E324-3A0E-ABC0-BD628D0F418D}</UniqueIdentifier>
+      <UniqueIdentifier>{C5262621-80C2-3916-B93B-5680CBCB1580}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\gpu">
-      <UniqueIdentifier>{2EF83991-7CD8-3C47-8CD2-E975D4C61302}</UniqueIdentifier>
+      <UniqueIdentifier>{3FAE29A2-4D66-3FFD-800E-A7580506CE58}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\infer">
-      <UniqueIdentifier>{AD4268AB-22BB-32A4-87C1-8C33F44E6A23}</UniqueIdentifier>
+      <UniqueIdentifier>{4E8EA39B-4BBE-3EDD-9AA3-48073BC2D8DD}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\internal">
-      <UniqueIdentifier>{DC8AE939-8BBD-3CF0-A910-64DF867EDE94}</UniqueIdentifier>
+      <UniqueIdentifier>{4FE5211D-CAD3-3772-BAB5-AB0662077F1D}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\oak">
-      <UniqueIdentifier>{67EB6547-DF99-34F8-B56B-3170F118D276}</UniqueIdentifier>
+      <UniqueIdentifier>{658FDA1F-1E0D-31D3-98A2-644B6709EA34}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\own">
-      <UniqueIdentifier>{4D637DD3-0220-3DF1-8634-7F500C4C8C0B}</UniqueIdentifier>
+      <UniqueIdentifier>{FCBCC271-9096-3B82-B874-A7871AB3F5D8}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\render">
-      <UniqueIdentifier>{084BDDAF-85C0-3E22-BFF2-50EB9438CD30}</UniqueIdentifier>
+      <UniqueIdentifier>{583716F2-9CEE-3479-8DB0-32CE47A557D5}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\rmat">
-      <UniqueIdentifier>{6AAE068E-CFE5-3375-845A-B10B2A076AD5}</UniqueIdentifier>
+      <UniqueIdentifier>{65E5D8AA-0A07-3353-913C-1514AA5626A1}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\s11n">
-      <UniqueIdentifier>{FF099628-048B-372E-B294-43FE4A810FF8}</UniqueIdentifier>
+      <UniqueIdentifier>{81D1DFFC-E840-32DA-A10F-3223AEBFE7EF}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\streaming">
-      <UniqueIdentifier>{6D42C9A6-F5F2-3AB1-ABC0-48AC8F034326}</UniqueIdentifier>
+      <UniqueIdentifier>{BF38EC33-5D78-3580-B933-419B96472354}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_gapi\Src\util">
-      <UniqueIdentifier>{887AEEE6-9B1B-3277-8334-D1515540E7F9}</UniqueIdentifier>
+      <UniqueIdentifier>{435E6632-25BB-3211-88B4-F7A2626A9CFD}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

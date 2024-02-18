@@ -1,1 +1,2 @@
 C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\libjpeg-turbo\jsimd.dir\Release\jsimd.lib
+C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\libjpeg-turbo\jsimd.dir\Release\jsimd.lib

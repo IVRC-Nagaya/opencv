@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_beblid.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_beblid.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_daisy.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_daisy.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_latch.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_latch.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_main.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_msd.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_msd.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_surf.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_surf.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_surf.cuda.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_surf.cuda.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -65,7 +65,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_surf.ocl.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_surf.ocl.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -74,7 +74,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_teblid.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_teblid.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_vgg.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_vgg.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -92,7 +92,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/xfeatures2d/perf/perf_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/xfeatures2d/perf/perf_precomp.hpp",
 			"labels" : 
 			[
 				"Extra",

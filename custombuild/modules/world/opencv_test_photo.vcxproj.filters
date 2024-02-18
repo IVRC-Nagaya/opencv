@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\ocl\test_denoising.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\ocl\test_denoising.cpp">
       <Filter>opencv_photo\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_cloning.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_cloning.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_decolor.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_decolor.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_denoise_tvl1.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_denoise_tvl1.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_denoising.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_denoising.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_denoising.cuda.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_denoising.cuda.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_hdr.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_hdr.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_inpaint.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_inpaint.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_main.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_npr.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_npr.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\test\test_precomp.hpp">
       <Filter>opencv_photo\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_photo">
-      <UniqueIdentifier>{E3821DEF-58F4-35AF-A649-6A178D77EC79}</UniqueIdentifier>
+      <UniqueIdentifier>{1E5045A7-7CF6-382A-9F68-29730FB46AC5}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Include">
-      <UniqueIdentifier>{5C135071-2F81-3059-A15F-7F78CF503A60}</UniqueIdentifier>
+      <UniqueIdentifier>{0559C58E-2E62-3412-A348-F27646CCD454}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Src">
-      <UniqueIdentifier>{BBE4AFCD-7BC8-35AB-8227-8DF9F23D0F18}</UniqueIdentifier>
+      <UniqueIdentifier>{BBC37A77-6BA4-3B0E-ABA1-B73A9327F22A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Src\ocl">
-      <UniqueIdentifier>{A4F1FDDF-57CE-3F31-906B-FFEDC13DB113}</UniqueIdentifier>
+      <UniqueIdentifier>{29A10BDB-CA98-3EFD-89BE-8E6D2B89CCAB}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

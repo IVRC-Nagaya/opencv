@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\perf\perf_bm.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\perf\perf_bm.cpp">
       <Filter>opencv_stereo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\perf\perf_descriptor.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\perf\perf_descriptor.cpp">
       <Filter>opencv_stereo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\perf\perf_main.cpp">
       <Filter>opencv_stereo\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\perf\perf_precomp.hpp">
       <Filter>opencv_stereo\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_stereo">
-      <UniqueIdentifier>{02CAD5FC-8596-34CE-9B6B-C2931FFE1D5F}</UniqueIdentifier>
+      <UniqueIdentifier>{93CC41EC-4126-330C-A40C-BC6B788E1B5B}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_stereo\Include">
-      <UniqueIdentifier>{F8E1D8FE-7F38-3229-9CCB-8E388F4B27D7}</UniqueIdentifier>
+      <UniqueIdentifier>{4A0A1FBA-D271-3899-AD79-A0186CEA9324}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_stereo\Src">
-      <UniqueIdentifier>{63DA8A81-B573-365B-B4D0-768357DA4B36}</UniqueIdentifier>
+      <UniqueIdentifier>{8F698921-425E-3CCE-A780-9E7CBCCEFCFC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

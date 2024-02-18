@@ -1,201 +1,201 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_accumulate.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_accumulate.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_blend.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_blend.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_boxfilter.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_boxfilter.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_canny.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_canny.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_color.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_color.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_filter2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_filter2d.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_filters.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_filters.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_gftt.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_gftt.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_histogram.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_histogram.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_houghlines.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_houghlines.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_imgproc.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_imgproc.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_match_template.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_match_template.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_medianfilter.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_medianfilter.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_pyramids.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_pyramids.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_sepfilter2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_sepfilter2d.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\ocl\test_warp.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\ocl\test_warp.cpp">
       <Filter>opencv_imgproc\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_approxpoly.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_approxpoly.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_bilateral_filter.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_bilateral_filter.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_boundingrect.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_boundingrect.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_canny.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_canny.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_color.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_color.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_connectedcomponents.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_connectedcomponents.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_contours.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_contours.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_convhull.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_convhull.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_cornersubpix.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_cornersubpix.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_cvtyuv.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_cvtyuv.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_distancetransform.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_distancetransform.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_drawing.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_drawing.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_emd.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_emd.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_filter.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_filter.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_fitellipse.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_fitellipse.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_fitellipse_ams.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_fitellipse_ams.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_fitellipse_direct.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_fitellipse_direct.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_floodfill.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_floodfill.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_goodfeaturetotrack.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_goodfeaturetotrack.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_grabcut.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_grabcut.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_histograms.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_histograms.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_houghcircles.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_houghcircles.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_houghlines.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_houghlines.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_imgproc_umat.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_imgproc_umat.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_imgwarp.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_imgwarp.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_imgwarp_strict.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_imgwarp_strict.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_intelligent_scissors.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_intelligent_scissors.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_intersectconvexconvex.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_intersectconvexconvex.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_intersection.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_intersection.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_lsd.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_lsd.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_main.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_moments.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_moments.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_pc.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_pc.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_pyramid.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_pyramid.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_resize_bitexact.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_resize_bitexact.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_smooth_bitexact.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_smooth_bitexact.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_stackblur.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_stackblur.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_subdivision2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_subdivision2d.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_templmatch.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_templmatch.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_templmatchmask.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_templmatchmask.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_thresh.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_thresh.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_watershed.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_watershed.cpp">
       <Filter>opencv_imgproc\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\test\test_precomp.hpp">
       <Filter>opencv_imgproc\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_imgproc">
-      <UniqueIdentifier>{1E5E0DFF-0531-3912-A2BB-D09A61DD4460}</UniqueIdentifier>
+      <UniqueIdentifier>{DA067388-2235-3D4A-AA43-37E3680BA042}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgproc\Include">
-      <UniqueIdentifier>{E2A24C3A-CEC0-375D-8380-C967513C27F8}</UniqueIdentifier>
+      <UniqueIdentifier>{FCE616C3-E0F8-39B0-A43F-BD2130E88125}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgproc\Src">
-      <UniqueIdentifier>{D9EA5784-791B-3ED7-A9C4-9582169B071B}</UniqueIdentifier>
+      <UniqueIdentifier>{0BBB597B-B262-3B0F-AA50-3C12C64C46F5}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_imgproc\Src\ocl">
-      <UniqueIdentifier>{13C30BD4-46C3-3A64-874F-BE1AFDF2DD39}</UniqueIdentifier>
+      <UniqueIdentifier>{8B6C20C1-9D02-38AF-9089-0385C7FF2E6C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

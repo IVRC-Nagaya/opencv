@@ -1,79 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\thread.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\thread.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\bio.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\bio.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\cio.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\cio.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\dwt.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\dwt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\event.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\event.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\ht_dec.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\ht_dec.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\image.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\image.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\invert.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\invert.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\j2k.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\j2k.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\jp2.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\jp2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\mct.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\mct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\mqc.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\mqc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\openjpeg.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\openjpeg.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\opj_clock.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\opj_clock.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\pi.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\pi.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\t1.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\t1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\t2.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\t2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\tcd.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\tcd.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\tgt.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\tgt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\function_list.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\function_list.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\opj_malloc.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\opj_malloc.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\sparse_array.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\sparse_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+      <UniqueIdentifier>{F72FD43B-10C7-32E7-B229-FA128CC92BE9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

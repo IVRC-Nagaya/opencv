@@ -1,48 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_bif.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_bif.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_face_align.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_face_align.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_facemark.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_facemark.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_facemark_aam.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_facemark_aam.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_facemark_lbf.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_facemark_lbf.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_loadsave.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_loadsave.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_mace.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_mace.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_main.cpp">
       <Filter>opencv_face\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\test\test_precomp.hpp">
       <Filter>opencv_face\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_face">
-      <UniqueIdentifier>{BF0156CA-B7A4-38BA-826D-54B2BAF0BC5E}</UniqueIdentifier>
+      <UniqueIdentifier>{126169BE-A28B-3B01-820F-EF0E35CC5A61}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_face\Include">
-      <UniqueIdentifier>{8BD48041-9DA2-309A-B17A-3E6296302B22}</UniqueIdentifier>
+      <UniqueIdentifier>{C869EEB6-8376-3687-B99E-CAE14C6DAF8C}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_face\Src">
-      <UniqueIdentifier>{D8AF5E52-C44D-33D5-96D3-D30F5183B74A}</UniqueIdentifier>
+      <UniqueIdentifier>{51A3FDFC-D4DD-3576-9E16-DC480167C40D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/opencl/test_hogdetector.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/opencl/test_hogdetector.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_aruco_utils.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_aruco_utils.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_arucodetection.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_arucodetection.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_barcode.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_barcode.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_boarddetection.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_boarddetection.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_cascadeandhog.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_cascadeandhog.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_charucodetection.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_charucodetection.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -65,7 +65,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_face.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_face.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -74,7 +74,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_main.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_qrcode.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_qrcode.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -92,7 +92,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_qrcode_encode.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_qrcode_encode.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -101,7 +101,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_aruco_utils.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_aruco_utils.hpp",
 			"labels" : 
 			[
 				"Main",
@@ -110,7 +110,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_precomp.hpp",
 			"labels" : 
 			[
 				"Main",
@@ -119,7 +119,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/objdetect/test/test_qr_utils.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/objdetect/test/test_qr_utils.hpp",
 			"labels" : 
 			[
 				"Main",

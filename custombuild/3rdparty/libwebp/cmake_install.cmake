@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/libwebp
+# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/libwebp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

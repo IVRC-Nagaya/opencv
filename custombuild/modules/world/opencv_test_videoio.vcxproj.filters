@@ -1,66 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_audio.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_audio.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_camera.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_camera.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_container_avi.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_container_avi.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_dynamic.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_dynamic.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_ffmpeg.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_ffmpeg.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_gstreamer.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_gstreamer.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_images.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_images.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_main.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_mfx.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_mfx.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_microphone.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_microphone.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_orientation.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_orientation.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_plugins.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_plugins.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_v4l2.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_v4l2.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_video_io.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_video_io.cpp">
       <Filter>opencv_videoio\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\test\test_precomp.hpp">
       <Filter>opencv_videoio\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_videoio">
-      <UniqueIdentifier>{B0E821FA-89C1-3BC2-9AF4-67CEEFE1F49C}</UniqueIdentifier>
+      <UniqueIdentifier>{E461B90C-3CE2-338A-9321-982929E364A6}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_videoio\Include">
-      <UniqueIdentifier>{B0E9B5B9-2A67-3420-8DE7-878499BEEC30}</UniqueIdentifier>
+      <UniqueIdentifier>{28F0915E-D0F8-3E5C-8EB4-DEAA8454385F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_videoio\Src">
-      <UniqueIdentifier>{8E5BBF67-DF48-3E56-BC12-54A81F83DF3B}</UniqueIdentifier>
+      <UniqueIdentifier>{0C3ABA00-A720-32EE-B88B-417EC4AF9DE9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

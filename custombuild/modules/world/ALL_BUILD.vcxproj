@@ -17,7 +17,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2E83F5E2-BB32-3A0D-BF19-01771366EA66}</ProjectGuid>
+    <ProjectGuid>{2321BF36-E3F6-3759-AC18-592B8FEE1F1A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -49,7 +49,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libpng;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libwebp\src;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\libjpeg-turbo;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libjpeg-turbo\src;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Half;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Iex;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\IlmThread;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Imath;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\IlmImf;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openexr;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libpng;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libwebp\src;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\libjpeg-turbo;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libjpeg-turbo\src;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Half;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Iex;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\IlmThread;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Imath;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\IlmImf;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openexr;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -59,7 +59,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libpng;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libwebp\src;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\libjpeg-turbo;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\libjpeg-turbo\src;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Half;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Iex;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\IlmThread;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\Imath;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\openexr\IlmImf;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\openexr;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\zlib;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openjpeg\openjp2;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libtiff;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libpng;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libwebp\src;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\libjpeg-turbo;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\libjpeg-turbo\src;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Half;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Iex;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\IlmThread;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\Imath;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\openexr\IlmImf;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\openexr;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -68,11 +68,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/world/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/world/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/world/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/world/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -80,12 +80,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindIconv.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\cmake\templates\vs_version.rc.in;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\calib3d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\cmake\hooks\INIT_MODULE_SOURCES_opencv_dnn.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\flann\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\aruco\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bioinspired\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\ccalib\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\datasets\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dpm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\fuzzy\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\hfs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\intensity_transform\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\mcc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\phase_unwrapping\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\plot\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rapid\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\reg\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\saliency\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\surface_matching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\text_config.hpp.in;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\tracking\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\videostab\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\cmake\download_boostdesc.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\cmake\download_vgg.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\ximgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xobjdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindIconv.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\cmake\templates\vs_version.rc.in;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\calib3d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\cmake\hooks\INIT_MODULE_SOURCES_opencv_dnn.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\flann\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\stitching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\aruco\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bioinspired\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\ccalib\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\datasets\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dnn_objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dnn_superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dpm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\fuzzy\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\hfs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\intensity_transform\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\mcc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\phase_unwrapping\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\plot\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rapid\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\reg\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rgbd\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\saliency\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\shape\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\structured_light\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\surface_matching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\text_config.hpp.in;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\tracking\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\videostab\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\wechat_qrcode\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\cmake\download_boostdesc.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\cmake\download_vgg.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\ximgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xobjdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/world/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/world/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/world/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/world/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -93,374 +93,374 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindIconv.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\cmake\templates\vs_version.rc.in;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\calib3d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\core\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\cmake\hooks\INIT_MODULE_SOURCES_opencv_dnn.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\dnn\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\flann\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\gapi\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgcodecs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\imgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\ml\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\stitching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\videoio\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\aruco\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bioinspired\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\ccalib\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\datasets\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dnn_superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\dpm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\face\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\fuzzy\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\hfs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\intensity_transform\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\mcc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\phase_unwrapping\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\plot\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rapid\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\reg\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\rgbd\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\saliency\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\shape\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\stereo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\structured_light\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\surface_matching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\text_config.hpp.in;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\tracking\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\videostab\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\cmake\download_boostdesc.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xfeatures2d\cmake\download_vgg.cmake;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\ximgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xobjdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CMakePushCheckState.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\CheckCSourceCompiles.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindIconv.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.28\Modules\FindPackageMessage.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\cmake\templates\vs_version.rc.in;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\calib3d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\core\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\cmake\hooks\INIT_MODULE_SOURCES_opencv_dnn.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\dnn\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\flann\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\gapi\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgcodecs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\imgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\ml\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\stitching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\videoio\cmake\plugin.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\aruco\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bioinspired\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\ccalib\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\datasets\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dnn_objdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dnn_superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\dpm\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\face\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\fuzzy\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\hfs\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\intensity_transform\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\mcc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\phase_unwrapping\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\plot\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rapid\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\reg\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\rgbd\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\saliency\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\shape\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\stereo\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\structured_light\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\superres\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\surface_matching\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\text_config.hpp.in;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\tracking\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\videostab\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\wechat_qrcode\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\cmake\download_boostdesc.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xfeatures2d\cmake\download_vgg.cmake;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\ximgproc\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xobjdetect\CMakeLists.txt;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\ZERO_CHECK.vcxproj">
-      <Project>{B30505A9-4318-3CEF-899F-A96B45C57772}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\ZERO_CHECK.vcxproj">
+      <Project>{CC76AE6C-1B63-3148-8ED8-CA5EEFCBE011}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_aruco.vcxproj">
-      <Project>{CF89E37A-0418-30AD-801C-8143F2D209EC}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_aruco.vcxproj">
+      <Project>{8F41D461-626A-3EB5-8629-7847FC0A9C45}</Project>
       <Name>opencv_perf_aruco</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_bioinspired.vcxproj">
-      <Project>{25710C77-E8B3-3E89-96B1-EDB3E08F0DC3}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_bioinspired.vcxproj">
+      <Project>{C96463C6-CF91-39D5-8543-E4CC627A7A0A}</Project>
       <Name>opencv_perf_bioinspired</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_calib3d.vcxproj">
-      <Project>{2D0F2C4A-125A-3D82-A091-5D1E76C80ADA}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_calib3d.vcxproj">
+      <Project>{25512B3C-A34C-38AB-9345-391BF1C08D05}</Project>
       <Name>opencv_perf_calib3d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_core.vcxproj">
-      <Project>{EE01845B-1B30-362E-A640-13375DA75DB9}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_core.vcxproj">
+      <Project>{BD6562D6-1FF4-3A89-ADF7-E34C10CCB380}</Project>
       <Name>opencv_perf_core</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_dnn.vcxproj">
-      <Project>{4C5001FB-4E39-30CA-AF3F-B428624451B1}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_dnn.vcxproj">
+      <Project>{0C6F3BBA-36C6-3856-82FE-EE3B2769A000}</Project>
       <Name>opencv_perf_dnn</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_dnn_superres.vcxproj">
-      <Project>{4C9ECF06-9C19-3E9F-9117-7261F509C7EA}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_dnn_superres.vcxproj">
+      <Project>{744DD897-5139-324C-9FB7-2AD6360A3985}</Project>
       <Name>opencv_perf_dnn_superres</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_features2d.vcxproj">
-      <Project>{56AA6AF1-3C11-3B52-85DD-0457452FE036}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_features2d.vcxproj">
+      <Project>{94161063-253A-3FB3-8F7E-A39B50D68562}</Project>
       <Name>opencv_perf_features2d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_gapi.vcxproj">
-      <Project>{1DB8D38E-DEBC-366C-BAAD-A71D8C97B0FF}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_gapi.vcxproj">
+      <Project>{FD098088-9B29-314A-96FD-3EEF3C82AE4C}</Project>
       <Name>opencv_perf_gapi</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_imgcodecs.vcxproj">
-      <Project>{72815A41-8649-351F-A595-10CE33B3412B}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_imgcodecs.vcxproj">
+      <Project>{90840A3C-1364-31E2-93D6-ED57E6B53667}</Project>
       <Name>opencv_perf_imgcodecs</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_imgproc.vcxproj">
-      <Project>{E145D56F-B8F8-36D3-94AA-CE9A3DBB70E0}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_imgproc.vcxproj">
+      <Project>{4852C88D-6359-3495-983D-C633808AA00E}</Project>
       <Name>opencv_perf_imgproc</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_line_descriptor.vcxproj">
-      <Project>{FF012DDF-FC47-366C-B91E-FCB5F5394067}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_line_descriptor.vcxproj">
+      <Project>{429B74AE-EB5C-3702-AAEC-03B0899B1835}</Project>
       <Name>opencv_perf_line_descriptor</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_objdetect.vcxproj">
-      <Project>{57DF9A2E-D63E-3025-821C-41D71B676320}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_objdetect.vcxproj">
+      <Project>{52F17403-1E76-37A9-BE69-02CF60DD0737}</Project>
       <Name>opencv_perf_objdetect</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_optflow.vcxproj">
-      <Project>{B7FCD862-03C6-30E4-B471-3F12FC7C0CD3}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_optflow.vcxproj">
+      <Project>{CE3CA82D-D56A-3A8C-85D9-4BDBC1CFCAC6}</Project>
       <Name>opencv_perf_optflow</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_photo.vcxproj">
-      <Project>{45331A3F-7638-3B29-A62C-22515B6EA6F3}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_photo.vcxproj">
+      <Project>{BD44E946-9D96-3530-A924-7220438EF39A}</Project>
       <Name>opencv_perf_photo</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_reg.vcxproj">
-      <Project>{C7D26443-4CE1-39A8-B85B-B2C514631F36}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_reg.vcxproj">
+      <Project>{AFEFC4F1-3C31-3A0C-8140-2E9CE38006E6}</Project>
       <Name>opencv_perf_reg</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_rgbd.vcxproj">
-      <Project>{AD9BCDCD-7442-3958-8FA4-2A3BFC5085FB}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_rgbd.vcxproj">
+      <Project>{E0A3D7ED-54EE-320B-8BE0-C17A180A5794}</Project>
       <Name>opencv_perf_rgbd</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_stereo.vcxproj">
-      <Project>{7F677EFF-A7DD-3013-9A9F-5DD8A193CA16}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_stereo.vcxproj">
+      <Project>{5BECF005-5B8E-3E78-A584-FFEE16C5A2FD}</Project>
       <Name>opencv_perf_stereo</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_stitching.vcxproj">
-      <Project>{2B958C81-2293-3794-B64B-182E75259C36}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_stitching.vcxproj">
+      <Project>{9066E619-87BE-3FA0-AA1B-06A3BE6EB2D1}</Project>
       <Name>opencv_perf_stitching</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_superres.vcxproj">
-      <Project>{7567929D-7167-36F9-8301-3D0A1C5C85A3}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_superres.vcxproj">
+      <Project>{951D636E-1EA0-3DCE-ADE7-6DC2565282EA}</Project>
       <Name>opencv_perf_superres</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_tracking.vcxproj">
-      <Project>{48E91F3D-4BF6-341A-B7C4-DC5293F0C011}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_tracking.vcxproj">
+      <Project>{D01C47D6-8AD1-38F6-B83F-978D7CA947A6}</Project>
       <Name>opencv_perf_tracking</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_video.vcxproj">
-      <Project>{18808F6E-B3DC-321E-87D1-D92AFBC8C0A4}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_video.vcxproj">
+      <Project>{B75CC834-C986-3600-8236-92E46968B362}</Project>
       <Name>opencv_perf_video</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_videoio.vcxproj">
-      <Project>{633A6F03-9500-3A7E-9C82-004AFF1EBA05}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_videoio.vcxproj">
+      <Project>{E18BD525-617D-33D2-80DF-A0BE70B2A8C7}</Project>
       <Name>opencv_perf_videoio</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_wechat_qrcode.vcxproj">
-      <Project>{BCFC8AE9-F8DD-31E3-B045-909A4FA7B79C}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_wechat_qrcode.vcxproj">
+      <Project>{81DC531A-1F32-3685-9BB7-99561F01C33E}</Project>
       <Name>opencv_perf_wechat_qrcode</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_xfeatures2d.vcxproj">
-      <Project>{6FF046FD-B6C4-3582-A792-461A313DC402}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_xfeatures2d.vcxproj">
+      <Project>{737F2F00-D6B5-327D-9845-E723A5A3478C}</Project>
       <Name>opencv_perf_xfeatures2d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_ximgproc.vcxproj">
-      <Project>{C88D34F1-C39A-3493-AF95-85024EE14BB0}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_ximgproc.vcxproj">
+      <Project>{9B1C795D-D9AA-38A7-AFA1-40D8AC8984AB}</Project>
       <Name>opencv_perf_ximgproc</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_perf_xphoto.vcxproj">
-      <Project>{5D6DD2F8-9997-3AFE-B55D-31463EAEC3E7}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_perf_xphoto.vcxproj">
+      <Project>{E94E2883-8B99-34AE-A95C-B126A1220010}</Project>
       <Name>opencv_perf_xphoto</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_aruco.vcxproj">
-      <Project>{3689CA52-9BE8-3B35-997E-7268811EF6F7}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_aruco.vcxproj">
+      <Project>{00BED36D-BA01-346A-A184-86DDC910FFA7}</Project>
       <Name>opencv_test_aruco</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_bgsegm.vcxproj">
-      <Project>{64E2E204-2425-352E-A5C2-AAAE4A750979}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_bgsegm.vcxproj">
+      <Project>{99B38E1E-4BA0-3F18-9A74-AA45C29B1951}</Project>
       <Name>opencv_test_bgsegm</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_bioinspired.vcxproj">
-      <Project>{2052A747-A28E-31F6-A063-A9F17483397C}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_bioinspired.vcxproj">
+      <Project>{2A3C4FC0-5997-3842-8E87-7DCBBBC0724E}</Project>
       <Name>opencv_test_bioinspired</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_calib3d.vcxproj">
-      <Project>{E310822F-FB07-3C8E-8CEF-BF67AD33D984}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_calib3d.vcxproj">
+      <Project>{8C1E27F2-E710-3DFA-9AE2-FB59BE259208}</Project>
       <Name>opencv_test_calib3d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core.vcxproj">
-      <Project>{A5BE500C-6734-32DF-A5C3-049ADFDB525C}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core.vcxproj">
+      <Project>{980C52A1-13B4-343C-9E97-E85CF928F621}</Project>
       <Name>opencv_test_core</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_AVX.vcxproj">
-      <Project>{B0043C4F-955A-323D-A7A3-FEC5038264A5}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_AVX.vcxproj">
+      <Project>{580B31E2-1A42-3A74-BDB8-FCAB519D5C85}</Project>
       <Name>opencv_test_core_AVX</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_AVX2.vcxproj">
-      <Project>{6A48FDC3-D8BE-30C2-895C-9C813FCB68C6}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_AVX2.vcxproj">
+      <Project>{37971D32-C912-3BC0-A6D1-B42B959EF56C}</Project>
       <Name>opencv_test_core_AVX2</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_AVX512_SKX.vcxproj">
-      <Project>{DAE8BDBB-70FE-38BB-B533-3A0FA0C952C0}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_AVX512_SKX.vcxproj">
+      <Project>{9D48CA20-0D2B-3DAD-9FC2-454FD8940983}</Project>
       <Name>opencv_test_core_AVX512_SKX</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_FP16.vcxproj">
-      <Project>{E96E1DE8-AE43-3B5F-ADBD-1FB15827E7DE}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_FP16.vcxproj">
+      <Project>{EB3FBC92-7626-3403-8BF2-8E16B614FFB1}</Project>
       <Name>opencv_test_core_FP16</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_SSE2.vcxproj">
-      <Project>{78695E47-B52E-3624-A9ED-B8FB6250EA1D}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_SSE2.vcxproj">
+      <Project>{4DB1E7EC-B357-34E7-84BA-36D495F17F3A}</Project>
       <Name>opencv_test_core_SSE2</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_SSE3.vcxproj">
-      <Project>{3A2A3E94-BF63-31A7-A7E8-26D6A7BA9C1B}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_SSE3.vcxproj">
+      <Project>{C01CAA54-BBFD-3A53-AA11-5FFC955DAAD4}</Project>
       <Name>opencv_test_core_SSE3</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_SSE4_1.vcxproj">
-      <Project>{3F62E6C3-5540-355E-AAE8-2826E0D55C82}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_SSE4_1.vcxproj">
+      <Project>{DC1F86C3-396C-316C-BD35-8C28A79660E9}</Project>
       <Name>opencv_test_core_SSE4_1</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_core_SSE4_2.vcxproj">
-      <Project>{28252EA7-2C4D-3255-A3F6-3498073C2554}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_core_SSE4_2.vcxproj">
+      <Project>{F86D44BD-83DB-352F-8859-362C3143A0DA}</Project>
       <Name>opencv_test_core_SSE4_2</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_dnn.vcxproj">
-      <Project>{3591D4D2-2D26-3B93-AD38-6F3C8C7C493F}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_dnn.vcxproj">
+      <Project>{98E089F4-8C11-3FD6-87A8-9E04FECA1D58}</Project>
       <Name>opencv_test_dnn</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_dnn_superres.vcxproj">
-      <Project>{AE482C65-092F-3C44-883D-2F058FF78005}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_dnn_superres.vcxproj">
+      <Project>{8C7DDACA-8BE6-39F0-9E2D-CCF80A592C76}</Project>
       <Name>opencv_test_dnn_superres</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_face.vcxproj">
-      <Project>{4BE577DC-BDBF-30FF-8612-AF10BF90982E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_face.vcxproj">
+      <Project>{37D94186-6677-3640-887E-180AB3FFE0F1}</Project>
       <Name>opencv_test_face</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_features2d.vcxproj">
-      <Project>{6C745083-D595-3012-B72F-7236DBCF1CAB}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_features2d.vcxproj">
+      <Project>{D30A1A0C-9F90-3812-B0C4-AD446D881EC1}</Project>
       <Name>opencv_test_features2d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_flann.vcxproj">
-      <Project>{40DEC16C-86DF-3886-BCD5-B14CBD049AD6}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_flann.vcxproj">
+      <Project>{E1346284-F2B6-3BDF-A402-EDFA54B23189}</Project>
       <Name>opencv_test_flann</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_fuzzy.vcxproj">
-      <Project>{8D6E65BA-4D54-3377-ACA3-D4A598C7B29E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_fuzzy.vcxproj">
+      <Project>{F486FD2F-3D5C-31EB-92B0-575CB0BBB10E}</Project>
       <Name>opencv_test_fuzzy</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_gapi.vcxproj">
-      <Project>{89AF4125-4C52-39FC-8EBC-BD3591FC97EF}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_gapi.vcxproj">
+      <Project>{43F65CA1-8672-35B8-B644-7DC9259D76CC}</Project>
       <Name>opencv_test_gapi</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_highgui.vcxproj">
-      <Project>{E4B8FBA6-2775-3E88-B9DE-D57288D195BB}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_highgui.vcxproj">
+      <Project>{B9D3F1E1-F2B7-3148-87BF-C643F996F929}</Project>
       <Name>opencv_test_highgui</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_imgcodecs.vcxproj">
-      <Project>{B0062326-BC9C-34B6-BF16-6E94600F494E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_imgcodecs.vcxproj">
+      <Project>{A150D742-BC02-3E11-8F10-B81583D3A15B}</Project>
       <Name>opencv_test_imgcodecs</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_imgproc.vcxproj">
-      <Project>{AC87DD16-3679-333B-A677-B35368DED84A}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_imgproc.vcxproj">
+      <Project>{A705C4E5-FB33-3337-8667-CD262BCFB9A6}</Project>
       <Name>opencv_test_imgproc</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_intensity_transform.vcxproj">
-      <Project>{21A545D7-8083-3314-9C74-EC6CEE5DD737}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_intensity_transform.vcxproj">
+      <Project>{1545A36F-8B6C-38A9-AB19-E17ACFF920AE}</Project>
       <Name>opencv_test_intensity_transform</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_line_descriptor.vcxproj">
-      <Project>{CD29DEE3-58C9-37B8-8824-CE2AC832C212}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_line_descriptor.vcxproj">
+      <Project>{591DE75E-4876-3BEA-8FE5-ED4127A785C3}</Project>
       <Name>opencv_test_line_descriptor</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_mcc.vcxproj">
-      <Project>{17BD2931-F911-3198-9C71-C9BFF9A7DF85}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_mcc.vcxproj">
+      <Project>{9EE6297B-5047-34CD-92D5-56528F925F62}</Project>
       <Name>opencv_test_mcc</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_ml.vcxproj">
-      <Project>{984CF102-1473-3B79-B44A-5B464C5A801D}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_ml.vcxproj">
+      <Project>{7674CA36-FDB1-3A62-8F41-EBDA51C4ABA9}</Project>
       <Name>opencv_test_ml</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_objdetect.vcxproj">
-      <Project>{6C4448CA-E190-3571-B146-3A49D7980D29}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_objdetect.vcxproj">
+      <Project>{11EE180C-4073-3550-B13C-E8E7AA86B8FD}</Project>
       <Name>opencv_test_objdetect</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_optflow.vcxproj">
-      <Project>{9B07DC14-241D-30E9-AD02-9A815973BD8D}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_optflow.vcxproj">
+      <Project>{7523DA48-B5C3-3A55-894B-E22486005377}</Project>
       <Name>opencv_test_optflow</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_phase_unwrapping.vcxproj">
-      <Project>{1E992253-2825-3A8D-90A7-8EBCA572917C}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_phase_unwrapping.vcxproj">
+      <Project>{0CA3954C-593A-3B47-A940-0C1529186328}</Project>
       <Name>opencv_test_phase_unwrapping</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_photo.vcxproj">
-      <Project>{0F4DC530-A1DF-389F-A086-F97E75988189}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_photo.vcxproj">
+      <Project>{0791A08C-43A3-3049-94A9-F938C7BBF71F}</Project>
       <Name>opencv_test_photo</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_quality.vcxproj">
-      <Project>{9CCA0DFB-D0F7-3E27-84CB-0790CA1C7493}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_quality.vcxproj">
+      <Project>{AAD4C18A-2BDC-3D29-AA0C-C06C6BE894A7}</Project>
       <Name>opencv_test_quality</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_rapid.vcxproj">
-      <Project>{29D60570-F988-32AB-8746-01C545D7101A}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_rapid.vcxproj">
+      <Project>{3EB16093-167D-36C0-9916-590716AFF37B}</Project>
       <Name>opencv_test_rapid</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_reg.vcxproj">
-      <Project>{77BD7FA0-0F28-3B3A-A585-D2B0400F7C82}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_reg.vcxproj">
+      <Project>{628D2318-9EEC-3D8D-8BCD-68038E6DF76D}</Project>
       <Name>opencv_test_reg</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_rgbd.vcxproj">
-      <Project>{C2C2931E-D9FC-36F2-A835-C3F3BDB7CD89}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_rgbd.vcxproj">
+      <Project>{289FC152-4103-321E-B242-D95B19F36A39}</Project>
       <Name>opencv_test_rgbd</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_saliency.vcxproj">
-      <Project>{F80F14C4-5FF8-3709-B77D-6DE1E64F7B54}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_saliency.vcxproj">
+      <Project>{E946099C-A264-3C53-BF15-9675467A8EF3}</Project>
       <Name>opencv_test_saliency</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_shape.vcxproj">
-      <Project>{6135FE80-670B-3863-8DA6-240065EF36E0}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_shape.vcxproj">
+      <Project>{295B6450-23A1-3BC0-8B8D-98DDD0655246}</Project>
       <Name>opencv_test_shape</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_stereo.vcxproj">
-      <Project>{F8D03C9B-3BED-333A-BCD6-399297585928}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_stereo.vcxproj">
+      <Project>{C5AAAC0A-50FF-31C4-B547-09641BC2690B}</Project>
       <Name>opencv_test_stereo</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_stitching.vcxproj">
-      <Project>{1C0F22B5-702F-3941-9E71-15769F6D3530}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_stitching.vcxproj">
+      <Project>{EBAA397E-87F6-35B8-B01E-51F93790ED86}</Project>
       <Name>opencv_test_stitching</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_structured_light.vcxproj">
-      <Project>{C4C66C3E-BC63-39BA-9EEF-A503CC8365D2}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_structured_light.vcxproj">
+      <Project>{C398EDD3-B749-3642-84C0-DD4553894F05}</Project>
       <Name>opencv_test_structured_light</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_superres.vcxproj">
-      <Project>{7CAAFF52-57BE-34D6-9A10-3FEE2374B0D7}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_superres.vcxproj">
+      <Project>{6E8E902B-9E60-3F5B-9AAE-18968D058AA6}</Project>
       <Name>opencv_test_superres</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_text.vcxproj">
-      <Project>{AA41E284-495C-3861-B304-A3D2FDF32F74}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_text.vcxproj">
+      <Project>{917BF664-D9C3-39CE-8997-2F367CB4A861}</Project>
       <Name>opencv_test_text</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_tracking.vcxproj">
-      <Project>{7E0FFF56-B7E1-30B7-BAB8-A23C23AC682D}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_tracking.vcxproj">
+      <Project>{CB6957AE-439A-3B7F-8DA4-85B94DDCCCD9}</Project>
       <Name>opencv_test_tracking</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_video.vcxproj">
-      <Project>{B8E609D9-5698-3F8B-9A88-A98EF6336C6A}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_video.vcxproj">
+      <Project>{E9CCA436-EA49-3A4C-9DF3-3F3297BB8F75}</Project>
       <Name>opencv_test_video</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_videoio.vcxproj">
-      <Project>{1A2F67D0-2089-3106-9E63-57E5CCE77D70}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_videoio.vcxproj">
+      <Project>{287DEB5E-5135-3A1C-AA04-5DD88703CF7F}</Project>
       <Name>opencv_test_videoio</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_videostab.vcxproj">
-      <Project>{83D628D8-23B2-34AC-B1F2-9A68AB030B7E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_videostab.vcxproj">
+      <Project>{9178BC94-3BB1-3DDC-83F3-2B2182D7CE64}</Project>
       <Name>opencv_test_videostab</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_wechat_qrcode.vcxproj">
-      <Project>{5A7C2C1E-02A5-39AB-82E8-4F62578E5117}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_wechat_qrcode.vcxproj">
+      <Project>{AD0F67EA-8237-3AE9-A0D3-6CA6F7C33089}</Project>
       <Name>opencv_test_wechat_qrcode</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_xfeatures2d.vcxproj">
-      <Project>{A8C6EDD1-CC34-3A0C-BD43-60B74557886C}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_xfeatures2d.vcxproj">
+      <Project>{34551CC2-2DB9-3D07-8DB0-0BE1F3961A0C}</Project>
       <Name>opencv_test_xfeatures2d</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_ximgproc.vcxproj">
-      <Project>{9393C614-7C7E-3634-93B8-F2F1E814120E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_ximgproc.vcxproj">
+      <Project>{56C8D72B-9280-3E1F-A703-88CE3110D03D}</Project>
       <Name>opencv_test_ximgproc</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_test_xphoto.vcxproj">
-      <Project>{DB88E6F2-E643-371F-9C88-46DD48D27472}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_test_xphoto.vcxproj">
+      <Project>{E652B487-7A9D-3307-8990-F398DE7C313F}</Project>
       <Name>opencv_test_xphoto</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\tools\waldboost_detector\opencv_waldboost_detector.vcxproj">
-      <Project>{75EFCDA1-BAA1-326E-B322-3523CCC1CAB9}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\tools\waldboost_detector\opencv_waldboost_detector.vcxproj">
+      <Project>{DA337063-A1E3-31D2-9F27-5EF051899292}</Project>
       <Name>opencv_waldboost_detector</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world.vcxproj">
-      <Project>{52B92B05-7C59-3F2B-AC4F-677305377A31}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world.vcxproj">
+      <Project>{917C8457-3890-342A-9B6B-86CE35AB39B6}</Project>
       <Name>opencv_world</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_AVX.vcxproj">
-      <Project>{0470DF64-4513-3172-9075-D1F380CE0E66}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_AVX.vcxproj">
+      <Project>{B9B4A673-85FA-310D-BF7A-0007208B538D}</Project>
       <Name>opencv_world_AVX</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_AVX2.vcxproj">
-      <Project>{A65E3740-8F27-30C5-B1BA-6A876EDA776E}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_AVX2.vcxproj">
+      <Project>{6CE12D3F-7953-3B34-8423-364123A1BA8E}</Project>
       <Name>opencv_world_AVX2</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_AVX512_SKX.vcxproj">
-      <Project>{2FF41E9C-8B0C-34CB-8E68-544E472BDE1B}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_AVX512_SKX.vcxproj">
+      <Project>{F4E6E9A4-06D3-3878-9F47-ED8AE7C7DA01}</Project>
       <Name>opencv_world_AVX512_SKX</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_SSE4_1.vcxproj">
-      <Project>{EE672D5A-D1D6-36B2-A6A8-FB3183449487}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_SSE4_1.vcxproj">
+      <Project>{9C02D551-EB18-3469-8CDE-6D256A7C44DC}</Project>
       <Name>opencv_world_SSE4_1</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\world\opencv_world_SSE4_2.vcxproj">
-      <Project>{7A6C3FA5-E4CD-3AE3-83F8-331C3F4A42D6}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\world\opencv_world_SSE4_2.vcxproj">
+      <Project>{210BE021-81BE-3CB5-BA5C-5EE84C56B1A2}</Project>
       <Name>opencv_world_SSE4_2</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

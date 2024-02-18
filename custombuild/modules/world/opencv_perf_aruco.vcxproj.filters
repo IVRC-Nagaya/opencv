@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\aruco\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\aruco\perf\perf_main.cpp">
       <Filter>opencv_aruco\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\aruco\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\aruco\perf\perf_precomp.hpp">
       <Filter>opencv_aruco\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_aruco">
-      <UniqueIdentifier>{91D35305-FDAD-3966-9E53-E62DCE3CDCB1}</UniqueIdentifier>
+      <UniqueIdentifier>{2BD2632B-E4D6-3558-AB76-BC08C1F1B7DC}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_aruco\Include">
-      <UniqueIdentifier>{9DE10522-877E-3CF2-B41A-8FD3792B5360}</UniqueIdentifier>
+      <UniqueIdentifier>{1CE81D6C-0933-30B9-8D1D-97456ADB5266}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_aruco\Src">
-      <UniqueIdentifier>{7BCD9575-B618-35BD-A18F-78B25FB55471}</UniqueIdentifier>
+      <UniqueIdentifier>{F0209BA2-E34A-39B3-80A6-59E8F9CD7073}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

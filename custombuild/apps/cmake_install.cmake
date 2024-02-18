@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/apps
+# Install script for directory: C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/apps
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,11 +34,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/annotation/cmake_install.cmake")
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/visualisation/cmake_install.cmake")
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/interactive-calibration/cmake_install.cmake")
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/version/cmake_install.cmake")
-  include("C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/apps/model-diagnostics/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/annotation/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/visualisation/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/interactive-calibration/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/version/cmake_install.cmake")
+  include("C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/apps/model-diagnostics/cmake_install.cmake")
 
 endif()
 

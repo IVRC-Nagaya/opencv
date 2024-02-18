@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_dnn_superres.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/dnn_superres/test/test_dnn_superres.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/dnn_superres/test/test_main.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/dnn_superres/test/test_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/dnn_superres/test/test_precomp.hpp",
 			"labels" : 
 			[
 				"Extra",

@@ -1,105 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\ocl\test_brute_force_matcher.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\ocl\test_brute_force_matcher.cpp">
       <Filter>opencv_features2d\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\ocl\test_feature2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\ocl\test_feature2d.cpp">
       <Filter>opencv_features2d\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_affine_feature.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_affine_feature.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_agast.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_agast.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_akaze.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_akaze.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_blobdetector.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_blobdetector.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_brisk.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_brisk.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_descriptors_invariance.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_descriptors_invariance.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_descriptors_regression.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_descriptors_regression.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_detectors_invariance.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_detectors_invariance.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_detectors_regression.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_detectors_regression.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_drawing.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_drawing.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_fast.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_fast.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_keypoints.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_keypoints.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_main.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_matchers_algorithmic.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_matchers_algorithmic.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_mser.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_mser.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_nearestneighbors.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_nearestneighbors.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_orb.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_orb.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_sift.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_sift.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_utils.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_utils.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_descriptors_invariance.impl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_descriptors_invariance.impl.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_descriptors_regression.impl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_descriptors_regression.impl.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_detectors_invariance.impl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_detectors_invariance.impl.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_detectors_regression.impl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_detectors_regression.impl.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_invariance_utils.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_invariance_utils.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\test\test_precomp.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_features2d">
-      <UniqueIdentifier>{B6F9472C-8C89-3A2A-BAE6-643AAFD99171}</UniqueIdentifier>
+      <UniqueIdentifier>{156144E5-8090-3554-B2B9-00B003A9CB57}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Include">
-      <UniqueIdentifier>{EA07D9CD-6F71-3234-89F6-4BA9570C80CB}</UniqueIdentifier>
+      <UniqueIdentifier>{9ECEDA14-F708-3E0C-BBE1-639FF3272748}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Src">
-      <UniqueIdentifier>{E512FCED-B34D-39F2-B690-25B50784EC19}</UniqueIdentifier>
+      <UniqueIdentifier>{5265A22F-CC28-322C-B854-3F74E66685D1}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Src\ocl">
-      <UniqueIdentifier>{970AE4A2-2146-30BB-9947-CB49DEF59D20}</UniqueIdentifier>
+      <UniqueIdentifier>{374E079F-43D6-3870-9056-6034B8D05D51}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

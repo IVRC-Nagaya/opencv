@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\test\test_gui.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\test\test_gui.cpp">
       <Filter>opencv_highgui\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\test\test_main.cpp">
       <Filter>opencv_highgui\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\highgui\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\highgui\test\test_precomp.hpp">
       <Filter>opencv_highgui\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_highgui">
-      <UniqueIdentifier>{99B42ADD-F403-3452-A403-2470626C6577}</UniqueIdentifier>
+      <UniqueIdentifier>{2B886A1E-3825-39D2-9B80-B4BC5CD7ECA9}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_highgui\Include">
-      <UniqueIdentifier>{02C7B20D-6C38-364F-9496-38606F12D343}</UniqueIdentifier>
+      <UniqueIdentifier>{014B3EC9-319B-3F24-8FB7-6A30BB8A39CE}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_highgui\Src">
-      <UniqueIdentifier>{F04AF53A-4DF0-376C-8516-4BFF6379172C}</UniqueIdentifier>
+      <UniqueIdentifier>{5BB83F5D-33D2-379F-B600-8302C4C27F6E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

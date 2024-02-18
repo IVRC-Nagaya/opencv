@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_aruco_tutorial.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_aruco_tutorial.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_main.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_aruco_utils.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_aruco_utils.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_precomp.hpp",
 			"labels" : 
 			[
 				"Extra",

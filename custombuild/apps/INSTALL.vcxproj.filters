@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\CMakeFiles\1529a883e989c2c6c448d189b06b514b\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\CMakeFiles\602974013eb603fb869c2d8483f1f2c4\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{70DD7B4F-1593-3998-857D-D874081A8EE2}</UniqueIdentifier>
+      <UniqueIdentifier>{A1BED6C7-4D6D-3572-A774-FCD53CC8DF5F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\test\test_detection.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\test\test_detection.cpp">
       <Filter>opencv_text\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\test\test_detection_swt.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\test\test_detection_swt.cpp">
       <Filter>opencv_text\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\test\test_main.cpp">
       <Filter>opencv_text\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\text\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\text\test\test_precomp.hpp">
       <Filter>opencv_text\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_text">
-      <UniqueIdentifier>{84076B8C-F0DF-3BAB-B37F-BB5FC6EC5205}</UniqueIdentifier>
+      <UniqueIdentifier>{4C4E52D2-C2AD-3D52-A946-C63092588D1B}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_text\Include">
-      <UniqueIdentifier>{00184E10-5C0B-37F7-ABAB-B5DA4C83088A}</UniqueIdentifier>
+      <UniqueIdentifier>{B40323FD-FD21-38BF-966E-C467D530454A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_text\Src">
-      <UniqueIdentifier>{6F36B770-9930-3E1F-AD87-3AD7CA81B4AF}</UniqueIdentifier>
+      <UniqueIdentifier>{FF9E3395-D96C-33BC-B33E-5BCBA7867E9B}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

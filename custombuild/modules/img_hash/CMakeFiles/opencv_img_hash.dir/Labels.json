@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/average_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/average_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/block_mean_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/block_mean_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/color_moment_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/color_moment_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/img_hash_base.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/img_hash_base.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/marr_hildreth_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/marr_hildreth_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/phash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/phash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -65,7 +65,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/include/opencv2/img_hash/radial_variance_hash.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/include/opencv2/img_hash/radial_variance_hash.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -74,7 +74,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/average_hash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/average_hash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/block_mean_hash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/block_mean_hash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -92,7 +92,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/color_moment_hash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/color_moment_hash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -101,7 +101,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/img_hash_base.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/img_hash_base.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -110,7 +110,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/marr_hildreth_hash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/marr_hildreth_hash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -119,7 +119,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/phash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/phash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -128,7 +128,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/radial_variance_hash.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/radial_variance_hash.cpp",
 			"labels" : 
 			[
 				"Extra",
@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/img_hash/src/precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/img_hash/src/precomp.hpp",
 			"labels" : 
 			[
 				"Extra",
@@ -146,16 +146,16 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/cvconfig.h"
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/cvconfig.h"
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/opencv2/opencv_modules.hpp"
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/opencv2/opencv_modules.hpp"
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/img_hash/vs_version.rc"
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/img_hash/vs_version.rc"
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/modules/img_hash/opencv_img_hash_main.cpp"
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/modules/img_hash/opencv_img_hash_main.cpp"
 		}
 	],
 	"target" : 

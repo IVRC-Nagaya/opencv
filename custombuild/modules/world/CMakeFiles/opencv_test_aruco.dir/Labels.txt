@@ -3,19 +3,19 @@
  opencv_aruco
  AccuracyTest
 # Source files and their labels
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_aruco_tutorial.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_aruco_tutorial.cpp
  Extra
  opencv_aruco
  AccuracyTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_main.cpp
  Extra
  opencv_aruco
  AccuracyTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_aruco_utils.hpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_aruco_utils.hpp
  Extra
  opencv_aruco
  AccuracyTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv_contrib/modules/aruco/test/test_precomp.hpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv_contrib/modules/aruco/test/test_precomp.hpp
  Extra
  opencv_aruco
  AccuracyTest

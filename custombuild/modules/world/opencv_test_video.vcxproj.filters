@@ -1,72 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\ocl\test_bgfg_mog2.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\ocl\test_bgfg_mog2.cpp">
       <Filter>opencv_video\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\ocl\test_dis.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\ocl\test_dis.cpp">
       <Filter>opencv_video\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\ocl\test_optflow_farneback.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\ocl\test_optflow_farneback.cpp">
       <Filter>opencv_video\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\ocl\test_optflowpyrlk.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\ocl\test_optflowpyrlk.cpp">
       <Filter>opencv_video\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_OF_accuracy.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_OF_accuracy.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_OF_reproducibility.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_OF_reproducibility.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_accum.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_accum.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_camshift.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_camshift.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_ecc.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_ecc.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_estimaterigid.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_estimaterigid.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_kalman.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_kalman.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_main.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_optflowpyrlk.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_optflowpyrlk.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_trackers.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_trackers.cpp">
       <Filter>opencv_video\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_precomp.hpp">
       <Filter>opencv_video\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\video\test\test_trackers.impl.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\video\test\test_trackers.impl.hpp">
       <Filter>opencv_video\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_video">
-      <UniqueIdentifier>{BEE02482-285A-3A5C-81BE-FD9268335EC9}</UniqueIdentifier>
+      <UniqueIdentifier>{37D9D0C7-B6C3-38F2-8EEA-DF41012F6FA3}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_video\Include">
-      <UniqueIdentifier>{2BE11E24-688E-327F-ADD9-92AEA09655DD}</UniqueIdentifier>
+      <UniqueIdentifier>{95A5D98E-BE00-3166-9B89-08C86F2C377E}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_video\Src">
-      <UniqueIdentifier>{7679BFCE-5EBF-327E-B2E0-BD3C6F5F2801}</UniqueIdentifier>
+      <UniqueIdentifier>{71797C1F-8D75-3783-B517-0E8E01C74FBA}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_video\Src\ocl">
-      <UniqueIdentifier>{20F7C251-E494-39EB-9BB0-C098B313DEDC}</UniqueIdentifier>
+      <UniqueIdentifier>{DCFE95A2-F0EA-35F7-A8C5-3EC94B6C0137}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

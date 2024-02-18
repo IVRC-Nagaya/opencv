@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\opencl\perf_cascades.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\opencl\perf_cascades.cpp">
       <Filter>opencv_objdetect\Src\opencl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\opencl\perf_hogdetect.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\opencl\perf_hogdetect.cpp">
       <Filter>opencv_objdetect\Src\opencl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\perf_aruco.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\perf_aruco.cpp">
       <Filter>opencv_objdetect\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\perf_barcode.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\perf_barcode.cpp">
       <Filter>opencv_objdetect\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\perf_main.cpp">
       <Filter>opencv_objdetect\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\perf_qrcode_pipeline.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\perf_qrcode_pipeline.cpp">
       <Filter>opencv_objdetect\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\objdetect\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\objdetect\perf\perf_precomp.hpp">
       <Filter>opencv_objdetect\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_objdetect">
-      <UniqueIdentifier>{0D1201FC-9966-30BF-BA66-97613CBE8467}</UniqueIdentifier>
+      <UniqueIdentifier>{BF724D3D-5030-3386-B14A-390996746A07}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_objdetect\Include">
-      <UniqueIdentifier>{99856096-E9D8-39B6-B847-68D394B9B0E0}</UniqueIdentifier>
+      <UniqueIdentifier>{D4B82BBA-8FAB-3980-AA94-A42324BF2B5B}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_objdetect\Src">
-      <UniqueIdentifier>{59C755A4-FEDB-3024-8335-FA3BFFC4F9B4}</UniqueIdentifier>
+      <UniqueIdentifier>{FD60599C-859A-3A90-9C62-DFF3FA5BE75F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_objdetect\Src\opencl">
-      <UniqueIdentifier>{34F929BD-AC71-31FD-A3F7-23ED7C914172}</UniqueIdentifier>
+      <UniqueIdentifier>{39A527E1-4E95-3953-BE05-FEE804C5AFDC}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

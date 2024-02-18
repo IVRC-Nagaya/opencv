@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{514F917F-9061-30D7-B99F-F3DFC2229118}</ProjectGuid>
+    <ProjectGuid>{46A41F43-4CCD-3542-AE3B-2761DD197196}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -41,19 +41,19 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">libprotobuf.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">libprotobufd</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">libprotobuf.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">libprotobuf</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/protobuf/src" /bigobj</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/protobuf/src" /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -73,15 +73,15 @@
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_SECURE_NO_WARNINGS=1;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Debug\libprotobufd.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Debug\libprotobufd.pdb</ProgramDataBaseFileName>
       <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_SECURE_NO_WARNINGS=1;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -94,8 +94,8 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/protobuf/src" /bigobj</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/protobuf/src" /bigobj</AdditionalOptions>
       <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
       <DisableSpecificWarnings>4127;4251;4324;4275;4512;4589;4819;4244;4267;4018;4355;4800;4251;4996;4146;4305;4127;4100;4512;4125;4389;4510;4610;4702;4456;4457;4065;4310;4661;4506;4701;4703;4505</DisableSpecificWarnings>
       <ExceptionHandling>Async</ExceptionHandling>
@@ -115,15 +115,15 @@
       <ObjectFileName>$(IntDir)</ObjectFileName>
       <DebugInformationFormat>
       </DebugInformationFormat>
-      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\lib\Release\libprotobuf.pdb</ProgramDataBaseFileName>
+      <ProgramDataBaseFileName>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\lib\Release\libprotobuf.pdb</ProgramDataBaseFileName>
       <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;_CRT_SECURE_NO_WARNINGS=1;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild;C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -135,11 +135,11 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/protobuf/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/protobuf/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/3rdparty/protobuf/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/3rdparty/protobuf/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -148,11 +148,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CheckIncludeFiles.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\protobuf\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\protobuf\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/3rdparty/protobuf/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/3rdparty/protobuf/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv -BC:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/3rdparty/protobuf/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/nidok/Desktop/Unity/firework2_lib/opencv -BC:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild --check-stamp-file C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/3rdparty/protobuf/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -161,56 +161,56 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.28\Modules\CheckIncludeFiles.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\3rdparty\protobuf\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\3rdparty\protobuf\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\any_lite.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\arena.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\arenastring.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\extension_set.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\generated_message_util.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\implicit_weak_message.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\coded_stream.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\io_win32.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\strtod.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream_impl.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream_impl_lite.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\map.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\message_lite.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\parse_context.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\repeated_field.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\repeated_ptr_field.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\bytestream.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\common.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\int128.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\status.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\stringpiece.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\stringprintf.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\structurally_valid.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\strutil.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\wire_format_lite.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\any.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\descriptor.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\descriptor.pb.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\descriptor_database.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\dynamic_message.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\extension_set_heavy.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\generated_message_reflection.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\io\tokenizer.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\map_field.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\message.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\reflection_ops.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\stubs\substitute.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\text_format.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\unknown_field_set.cc" />
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\protobuf\src\google\protobuf\wire_format.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\any_lite.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\arena.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\arenastring.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\extension_set.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\generated_message_util.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\implicit_weak_message.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\coded_stream.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\io_win32.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\strtod.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream_impl.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\zero_copy_stream_impl_lite.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\map.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\message_lite.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\parse_context.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\repeated_field.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\repeated_ptr_field.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\bytestream.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\common.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\int128.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\status.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\stringpiece.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\stringprintf.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\structurally_valid.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\strutil.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\wire_format_lite.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\any.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\descriptor.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\descriptor.pb.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\descriptor_database.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\dynamic_message.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\extension_set_heavy.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\generated_message_reflection.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\io\tokenizer.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\map_field.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\message.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\reflection_ops.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\stubs\substitute.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\text_format.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\unknown_field_set.cc" />
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\protobuf\src\google\protobuf\wire_format.cc" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\ZERO_CHECK.vcxproj">
-      <Project>{B30505A9-4318-3CEF-899F-A96B45C57772}</Project>
+    <ProjectReference Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\ZERO_CHECK.vcxproj">
+      <Project>{CC76AE6C-1B63-3148-8ED8-CA5EEFCBE011}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

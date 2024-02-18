@@ -1,4 +1,4 @@
-#define CV_CPU_SIMD_FILENAME "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgproc/src/accum.simd.hpp"
+#define CV_CPU_SIMD_FILENAME "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgproc/src/accum.simd.hpp"
 #define CV_CPU_DISPATCH_MODE SSE4_1
 #include "opencv2/core/private/cv_cpu_include_simd_declarations.hpp"
 

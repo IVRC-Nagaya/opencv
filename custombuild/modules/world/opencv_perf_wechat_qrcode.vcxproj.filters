@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\wechat_qrcode\perf\perf_main.cpp">
       <Filter>opencv_wechat_qrcode\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_wechat_qrcode_pipeline.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\wechat_qrcode\perf\perf_wechat_qrcode_pipeline.cpp">
       <Filter>opencv_wechat_qrcode\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\wechat_qrcode\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\wechat_qrcode\perf\perf_precomp.hpp">
       <Filter>opencv_wechat_qrcode\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_wechat_qrcode">
-      <UniqueIdentifier>{96BCE3A5-EBEB-3BE9-A7D4-10EC4084E258}</UniqueIdentifier>
+      <UniqueIdentifier>{7AF3087A-0F2C-39E1-8229-AF40DC07E320}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_wechat_qrcode\Include">
-      <UniqueIdentifier>{58D3F5DF-8B51-3C8D-B363-E302D3499C8D}</UniqueIdentifier>
+      <UniqueIdentifier>{B0A36FA7-497D-3AC7-B089-F0A746CC7273}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_wechat_qrcode\Src">
-      <UniqueIdentifier>{7CB607CD-3EEE-3486-92A3-417D74D03586}</UniqueIdentifier>
+      <UniqueIdentifier>{406F75E5-93CF-3A17-9F1C-448B5BAB5C26}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

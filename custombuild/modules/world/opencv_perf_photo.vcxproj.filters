@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\opencl\perf_denoising.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\opencl\perf_denoising.cpp">
       <Filter>opencv_photo\Src\opencl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\perf_cuda.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\perf_cuda.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\perf_hdr.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\perf_hdr.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\perf_inpaint.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\perf_inpaint.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\perf_main.cpp">
       <Filter>opencv_photo\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\photo\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\photo\perf\perf_precomp.hpp">
       <Filter>opencv_photo\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_photo">
-      <UniqueIdentifier>{E3821DEF-58F4-35AF-A649-6A178D77EC79}</UniqueIdentifier>
+      <UniqueIdentifier>{1E5045A7-7CF6-382A-9F68-29730FB46AC5}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Include">
-      <UniqueIdentifier>{5C135071-2F81-3059-A15F-7F78CF503A60}</UniqueIdentifier>
+      <UniqueIdentifier>{0559C58E-2E62-3412-A348-F27646CCD454}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Src">
-      <UniqueIdentifier>{BBE4AFCD-7BC8-35AB-8227-8DF9F23D0F18}</UniqueIdentifier>
+      <UniqueIdentifier>{BBC37A77-6BA4-3B0E-ABA1-B73A9327F22A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_photo\Src\opencl">
-      <UniqueIdentifier>{EDF427A7-0EE5-38CF-B7B0-220070C0D29D}</UniqueIdentifier>
+      <UniqueIdentifier>{4BFDD880-1B0D-3AF8-B62A-F90144B6B844}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

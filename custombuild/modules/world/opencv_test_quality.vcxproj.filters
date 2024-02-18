@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_brisque.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_brisque.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_gmsd.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_gmsd.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_main.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_mse.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_mse.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_psnr.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_psnr.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_ssim.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_ssim.cpp">
       <Filter>opencv_quality\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\quality\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\quality\test\test_precomp.hpp">
       <Filter>opencv_quality\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_quality">
-      <UniqueIdentifier>{09853DB5-2907-3753-9213-72056DB5FE73}</UniqueIdentifier>
+      <UniqueIdentifier>{43C2C0A3-3A01-3162-BE9C-DC5D2EDDA627}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_quality\Include">
-      <UniqueIdentifier>{294FE2B3-C25D-3651-9CC0-5E4BCF39233D}</UniqueIdentifier>
+      <UniqueIdentifier>{F2F2B864-B05F-39E1-8024-1C12CFAB48FA}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_quality\Src">
-      <UniqueIdentifier>{342A0D26-0D08-33E6-B967-4AA4BA2AD11E}</UniqueIdentifier>
+      <UniqueIdentifier>{62CF9B97-0D19-3708-9B64-A93BC062032F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

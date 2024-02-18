@@ -1,48 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_static.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_static.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\jitprofiling.c">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\jitprofiling.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\include\ittnotify.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\include\ittnotify.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\include\jitprofiling.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\include\jitprofiling.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\include\libittnotify.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\include\libittnotify.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\include\llvm_jit_event_listener.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\include\llvm_jit_event_listener.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\disable_warnings.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\disable_warnings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_config.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_static.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_static.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_types.h">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\src\ittnotify\ittnotify_types.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\3rdparty\ittnotify\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\3rdparty\ittnotify\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{8AC0DFCA-1B41-362C-BA97-D8FFE7C23DAE}</UniqueIdentifier>
+      <UniqueIdentifier>{ACFD954F-8DB4-3452-AED8-BDAD43803D3F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+      <UniqueIdentifier>{F72FD43B-10C7-32E7-B229-FA128CC92BE9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

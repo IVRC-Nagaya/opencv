@@ -1,3 +1,3 @@
 
-#include "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/core/src/precomp.hpp"
-#include "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/core/src/stat.simd.hpp"
+#include "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/core/src/precomp.hpp"
+#include "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/core/src/stat.simd.hpp"

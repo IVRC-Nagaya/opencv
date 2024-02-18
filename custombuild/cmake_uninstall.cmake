@@ -5,11 +5,11 @@
 # Details: https://gitlab.kitware.com/cmake/community/-/wikis/FAQ#can-i-do-make-uninstall-with-cmake
 # -----------------------------------------------
 
-if(NOT EXISTS "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install_manifest.txt\"")
+if(NOT EXISTS "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install_manifest.txt\"")
 endif()
 
-file(READ "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/custombuild/install_manifest.txt" files)
+file(READ "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/custombuild/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 foreach(file ${files})
   message(STATUS "Uninstalling $ENV{DESTDIR}${file}")

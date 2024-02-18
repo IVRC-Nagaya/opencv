@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\perf\perf_grayworld.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\perf\perf_grayworld.cpp">
       <Filter>opencv_xphoto\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\perf\perf_learning_based_color_balance.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\perf\perf_learning_based_color_balance.cpp">
       <Filter>opencv_xphoto\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\perf\perf_main.cpp">
       <Filter>opencv_xphoto\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\xphoto\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\xphoto\perf\perf_precomp.hpp">
       <Filter>opencv_xphoto\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_xphoto">
-      <UniqueIdentifier>{CA628757-C109-337D-BE8C-558CDAF9C5D2}</UniqueIdentifier>
+      <UniqueIdentifier>{713DE738-C87B-31AB-BB90-754BF7DF1F66}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_xphoto\Include">
-      <UniqueIdentifier>{C7509F67-870E-37CE-AAEF-30C1FD568572}</UniqueIdentifier>
+      <UniqueIdentifier>{0DF1A6E7-0F05-3169-9629-0CB773D20E1A}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_xphoto\Src">
-      <UniqueIdentifier>{754AF0EE-D059-3855-8A7D-F7B4F0F14F5E}</UniqueIdentifier>
+      <UniqueIdentifier>{79DB800E-A63E-3367-B502-CF378EB8A713}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

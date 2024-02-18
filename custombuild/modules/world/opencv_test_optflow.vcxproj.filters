@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\ocl\test_motempl.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\ocl\test_motempl.cpp">
       <Filter>opencv_optflow\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\ocl\test_optflow_tvl1flow.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\ocl\test_optflow_tvl1flow.cpp">
       <Filter>opencv_optflow\Src\ocl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\test_OF_accuracy.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\test_OF_accuracy.cpp">
       <Filter>opencv_optflow\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\test_main.cpp">
       <Filter>opencv_optflow\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\test_motiontemplates.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\test_motiontemplates.cpp">
       <Filter>opencv_optflow\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\test_tvl1optflow.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\test_tvl1optflow.cpp">
       <Filter>opencv_optflow\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\optflow\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\optflow\test\test_precomp.hpp">
       <Filter>opencv_optflow\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_optflow">
-      <UniqueIdentifier>{47259826-A30C-3BDD-81A4-7F0E4647F9F7}</UniqueIdentifier>
+      <UniqueIdentifier>{AEB8CB35-05F1-3C48-89BD-A1BAF0B6FBEE}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_optflow\Include">
-      <UniqueIdentifier>{B6BD8AFE-66B8-3FAA-A7AA-C8E5FF2B81A2}</UniqueIdentifier>
+      <UniqueIdentifier>{6FA53C61-46A9-3074-B08F-D9A839AA9C1F}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_optflow\Src">
-      <UniqueIdentifier>{ABD05897-92DD-33E9-8349-081F2EDD0762}</UniqueIdentifier>
+      <UniqueIdentifier>{45DF2142-3118-3FB2-A77A-64C20FA61230}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_optflow\Src\ocl">
-      <UniqueIdentifier>{0C49506C-1B30-3184-B132-0C52386956D6}</UniqueIdentifier>
+      <UniqueIdentifier>{B8F95697-7E9A-381A-97F8-D59AD9AD0CDA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

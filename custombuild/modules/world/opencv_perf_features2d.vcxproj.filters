@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\opencl\perf_brute_force_matcher.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\opencl\perf_brute_force_matcher.cpp">
       <Filter>opencv_features2d\Src\opencl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\opencl\perf_feature2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\opencl\perf_feature2d.cpp">
       <Filter>opencv_features2d\Src\opencl</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\perf_batchDistance.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\perf_batchDistance.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\perf_feature2d.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\perf_feature2d.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\perf_main.cpp">
       <Filter>opencv_features2d\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\perf_feature2d.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\perf_feature2d.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\features2d\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\features2d\perf\perf_precomp.hpp">
       <Filter>opencv_features2d\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_features2d">
-      <UniqueIdentifier>{B6F9472C-8C89-3A2A-BAE6-643AAFD99171}</UniqueIdentifier>
+      <UniqueIdentifier>{156144E5-8090-3554-B2B9-00B003A9CB57}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Include">
-      <UniqueIdentifier>{EA07D9CD-6F71-3234-89F6-4BA9570C80CB}</UniqueIdentifier>
+      <UniqueIdentifier>{9ECEDA14-F708-3E0C-BBE1-639FF3272748}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Src">
-      <UniqueIdentifier>{E512FCED-B34D-39F2-B690-25B50784EC19}</UniqueIdentifier>
+      <UniqueIdentifier>{5265A22F-CC28-322C-B854-3F74E66685D1}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_features2d\Src\opencl">
-      <UniqueIdentifier>{6BC87C24-2A5E-3944-99AE-6D86F99FE36B}</UniqueIdentifier>
+      <UniqueIdentifier>{C4BFB45F-25CD-3020-ADF8-0DBDF93BBC39}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

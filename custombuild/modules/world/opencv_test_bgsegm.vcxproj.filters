@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\test\test_backgroundsubtractor_gbh.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\test\test_backgroundsubtractor_gbh.cpp">
       <Filter>opencv_bgsegm\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\test\test_backgroundsubtractor_lsbp.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\test\test_backgroundsubtractor_lsbp.cpp">
       <Filter>opencv_bgsegm\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\test\test_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\test\test_main.cpp">
       <Filter>opencv_bgsegm\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\bgsegm\test\test_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\bgsegm\test\test_precomp.hpp">
       <Filter>opencv_bgsegm\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_bgsegm">
-      <UniqueIdentifier>{AD814B36-AC44-34CA-824E-4FFCB33DEE0B}</UniqueIdentifier>
+      <UniqueIdentifier>{91C1BCF2-F137-3127-9EAB-8A6D586010F8}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_bgsegm\Include">
-      <UniqueIdentifier>{1BC90CF6-D2D6-388E-B3B7-83F3FFECB11E}</UniqueIdentifier>
+      <UniqueIdentifier>{B723179C-E708-32DD-9D35-C033A7E34E69}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_bgsegm\Src">
-      <UniqueIdentifier>{6D4D37EB-2BE5-3677-A4D9-E33C691C7739}</UniqueIdentifier>
+      <UniqueIdentifier>{F30B7B23-49A6-3F00-AEBC-0DE93C352FA0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

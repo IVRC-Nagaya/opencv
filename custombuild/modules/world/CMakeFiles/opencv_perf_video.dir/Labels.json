@@ -2,7 +2,7 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_bgfg_knn.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_bgfg_knn.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_bgfg_mog2.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_bgfg_mog2.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_dis_optflow.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_dis_optflow.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_motempl.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_motempl.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -38,7 +38,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_optflow_farneback.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_optflow_farneback.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -47,7 +47,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/opencl/perf_optflow_pyrlk.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/opencl/perf_optflow_pyrlk.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_bgfg_knn.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_bgfg_knn.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -65,7 +65,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_bgfg_mog2.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_bgfg_mog2.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -74,7 +74,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_disflow.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_disflow.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_ecc.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_ecc.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -92,7 +92,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_main.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_main.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -101,7 +101,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_optflowpyrlk.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_optflowpyrlk.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -110,7 +110,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_trackers.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_trackers.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -119,7 +119,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_variational_refinement.cpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_variational_refinement.cpp",
 			"labels" : 
 			[
 				"Main",
@@ -128,7 +128,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_bgfg_utils.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_bgfg_utils.hpp",
 			"labels" : 
 			[
 				"Main",
@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"file" : "C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/video/perf/perf_precomp.hpp",
+			"file" : "C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/video/perf/perf_precomp.hpp",
 			"labels" : 
 			[
 				"Main",

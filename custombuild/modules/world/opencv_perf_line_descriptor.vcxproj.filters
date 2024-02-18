@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\perf\perf_descriptors.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\perf\perf_descriptors.cpp">
       <Filter>opencv_line_descriptor\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\perf\perf_detection.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\perf\perf_detection.cpp">
       <Filter>opencv_line_descriptor\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\perf\perf_main.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\perf\perf_main.cpp">
       <Filter>opencv_line_descriptor\Src</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\perf\perf_matching.cpp">
+    <ClCompile Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\perf\perf_matching.cpp">
       <Filter>opencv_line_descriptor\Src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv_contrib\modules\line_descriptor\perf\perf_precomp.hpp">
+    <ClInclude Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv_contrib\modules\line_descriptor\perf\perf_precomp.hpp">
       <Filter>opencv_line_descriptor\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\world\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\world\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="opencv_line_descriptor">
-      <UniqueIdentifier>{5F2BB149-C4D5-3777-B93C-84E9AD35BC43}</UniqueIdentifier>
+      <UniqueIdentifier>{550C0F51-A22F-3BF5-B41D-BD6D276DA086}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_line_descriptor\Include">
-      <UniqueIdentifier>{DF22AE6B-79CD-35DB-A95F-2E4B005CA703}</UniqueIdentifier>
+      <UniqueIdentifier>{35A638BC-725A-3008-BCFA-AE5C19833CF8}</UniqueIdentifier>
     </Filter>
     <Filter Include="opencv_line_descriptor\Src">
-      <UniqueIdentifier>{89043C34-FA98-3814-91F3-CCBF720E6D67}</UniqueIdentifier>
+      <UniqueIdentifier>{182DE608-BECC-3197-BD29-24FC15B51A4A}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -3,19 +3,19 @@
  opencv_imgcodecs
  PerfTest
 # Source files and their labels
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_jpeg.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_jpeg.cpp
  Main
  opencv_imgcodecs
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_main.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_main.cpp
  Main
  opencv_imgcodecs
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_png.cpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_png.cpp
  Main
  opencv_imgcodecs
  PerfTest
-C:/Users/nidok/Desktop/Unity/firework2/firework2_cvdll/CvDll/opencv/modules/imgcodecs/perf/perf_precomp.hpp
+C:/Users/nidok/Desktop/Unity/firework2_lib/opencv/modules/imgcodecs/perf/perf_precomp.hpp
  Main
  opencv_imgcodecs
  PerfTest

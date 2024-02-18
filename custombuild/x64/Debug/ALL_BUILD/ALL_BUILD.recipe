@@ -2,253 +2,253 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_world490d.dll</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_world490d.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_annotationd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_annotationd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\x64\Debug\opencv_dnn_plugins</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\x64\Debug\opencv_dnn_plugins</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\x64\Debug\opencv_highgui_plugins</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\x64\Debug\opencv_highgui_plugins</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_img_hash490d.dll</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_img_hash490d.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_interactive-calibrationd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_interactive-calibrationd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_model_diagnosticsd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_model_diagnosticsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\x64\Debug\opencv_videoio_plugins</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\x64\Debug\opencv_videoio_plugins</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_arucod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_arucod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_bioinspiredd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_bioinspiredd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_calib3dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_calib3dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_cored.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_cored.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_dnnd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_dnnd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_dnn_superresd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_dnn_superresd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_features2dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_features2dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_gapid.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_gapid.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_imgcodecsd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_imgcodecsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_imgprocd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_imgprocd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_line_descriptord.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_line_descriptord.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_objdetectd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_objdetectd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_optflowd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_optflowd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_photod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_photod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_regd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_regd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_rgbdd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_rgbdd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_stereod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_stereod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_stitchingd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_stitchingd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_superresd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_superresd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_trackingd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_trackingd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_videod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_videod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_videoiod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_videoiod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_wechat_qrcoded.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_wechat_qrcoded.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_xfeatures2dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_xfeatures2dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_ximgprocd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_ximgprocd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_perf_xphotod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_perf_xphotod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_arucod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_arucod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_bgsegmd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_bgsegmd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_bioinspiredd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_bioinspiredd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_calib3dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_calib3dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_cored.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_cored.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_dnnd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_dnnd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_dnn_superresd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_dnn_superresd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_faced.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_faced.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_features2dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_features2dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_flannd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_flannd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_fuzzyd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_fuzzyd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_gapid.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_gapid.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_highguid.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_highguid.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_img_hashd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_img_hashd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_imgcodecsd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_imgcodecsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_imgprocd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_imgprocd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_intensity_transformd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_intensity_transformd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_line_descriptord.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_line_descriptord.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_mccd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_mccd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_mld.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_mld.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_objdetectd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_objdetectd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_optflowd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_optflowd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_phase_unwrappingd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_phase_unwrappingd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_photod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_photod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_qualityd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_qualityd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_rapidd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_rapidd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_regd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_regd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_rgbdd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_rgbdd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_saliencyd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_saliencyd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_shaped.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_shaped.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_stereod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_stereod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_stitchingd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_stitchingd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_structured_lightd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_structured_lightd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_superresd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_superresd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_textd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_textd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_trackingd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_trackingd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_videod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_videod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_videoiod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_videoiod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_videostabd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_videostabd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_wechat_qrcoded.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_wechat_qrcoded.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_xfeatures2dd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_xfeatures2dd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_ximgprocd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_ximgprocd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_test_xphotod.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_test_xphotod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_versiond.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_versiond.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_version_win32d.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_version_win32d.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_visualisationd.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_visualisationd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\bin\Debug\opencv_waldboost_detectord.exe</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\bin\Debug\opencv_waldboost_detectord.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

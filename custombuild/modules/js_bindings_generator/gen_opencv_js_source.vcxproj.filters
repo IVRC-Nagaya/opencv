@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\CMakeFiles\a05b6c8a45ef4c8a0a21011798992da9\bindings.cpp.rule">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\CMakeFiles\e2c5aaceb5d9ff9783239cf5ff68d17b\bindings.cpp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\CMakeFiles\ed8bc2f39e5be7e60a0271f28cea8298\gen_opencv_js_source.rule">
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\CMakeFiles\9f5fad94ae1366f12a6b5daefcb0d933\gen_opencv_js_source.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
-    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\js\generator\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\js\generator\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\js\src\core_bindings.cpp">
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\js\src\core_bindings.cpp">
       <Filter>Source Files</Filter>
     </None>
-    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\js\generator\embindgen.py" />
-    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\modules\js\generator\templates.py" />
-    <None Include="C:\Users\nidok\Desktop\Unity\firework2\firework2_cvdll\CvDll\opencv\custombuild\modules\js_bindings_generator\CMakeFiles\gen_opencv_js_source" />
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\js\generator\embindgen.py" />
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\modules\js\generator\templates.py" />
+    <None Include="C:\Users\nidok\Desktop\Unity\firework2_lib\opencv\custombuild\modules\js_bindings_generator\CMakeFiles\gen_opencv_js_source" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{70DD7B4F-1593-3998-857D-D874081A8EE2}</UniqueIdentifier>
+      <UniqueIdentifier>{A1BED6C7-4D6D-3572-A774-FCD53CC8DF5F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{B1336E2B-79D1-3D9D-BDFA-50C5434CFF18}</UniqueIdentifier>
+      <UniqueIdentifier>{F72FD43B-10C7-32E7-B229-FA128CC92BE9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
