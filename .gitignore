@@ -9,7 +9,7 @@
 Thumbs.db
 tags
 tegra/
-bin/
+#bin/
 *.sdf
 *.opensdf
 *.obj
@@ -26,7 +26,7 @@ node_modules
 CMakeSettings.json
 xcuserdata/
 
-
+custombuild/bin/
 custombuild/modules/core/opencv_test_core.dir/Debug/opencv_test_cored.ilk
 custombuild/modules/world/opencv_test_core.dir/Debug/opencv_test_cored.ilk
 custombuild/modules/videostab/opencv_test_videostab.dir/Debug/cmake_pch.pch
@@ -46,3 +46,4 @@ custombuild/modules/gapi/opencv_perf_gapi.dir/Debug/cmake_pch.pch
 custombuild/modules/gapi/opencv_test_gapi.dir/Debug/opencv_test_gapid.ilk
 custombuild/modules/gapi/opencv_perf_gapi.dir/Release/cmake_pch.pch
 custombuild/modules/gapi/opencv_perf_gapi.dir/Debug/opencv_perf_gapid.ilk
+custombuild/install/x64/vc17/bin/opencv_world490d.dll
